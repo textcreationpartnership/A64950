@@ -1,0 +1,885 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coblers sermon cryed downe, as a cruell cup-shot counterfeit, or, The summe of Mr. Humfrey Vincents sermon as it was preached and penned by his owne month and hand confuting the matter and confounding the authour of that base-blasphemous pamphlet called The coblers sermon, Mr. Vincent who hath been a preacher these five and twenty yeeres, preached these two sermons at Saint Georges Church in Southwarke in the yeere 1641, the one on Friday the 10, the other on the Lords day, the 12 of December in the morning.</title>
+            <author>Vincent, Humfrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 148 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64950</idno>
+            <idno type="STC">Wing V398A</idno>
+            <idno type="STC">ESTC R3159</idno>
+            <idno type="EEBO-CITATION">12083586</idno>
+            <idno type="OCLC">ocm 12083586</idno>
+            <idno type="VID">53660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53660)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 587:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coblers sermon cryed downe, as a cruell cup-shot counterfeit, or, The summe of Mr. Humfrey Vincents sermon as it was preached and penned by his owne month and hand confuting the matter and confounding the authour of that base-blasphemous pamphlet called The coblers sermon, Mr. Vincent who hath been a preacher these five and twenty yeeres, preached these two sermons at Saint Georges Church in Southwarke in the yeere 1641, the one on Friday the 10, the other on the Lords day, the 12 of December in the morning.</title>
+                  <author>Vincent, Humfrey.</author>
+               </titleStmt>
+               <extent>[8], 59, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Higgins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vincent, Humfrey. --  Cobler's end.</term>
+               <term>Coblers sermon.</term>
+               <term>Bible. --  O.T. --  Isaiah XXX, 33 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53660:1"/>
+            <pb facs="tcp:53660:1"/>
+            <p>THE COBLERS SERMON Cryed downe, as a Cruell Cup-ſhot Counterfeit: OR, THE SUMME OF M<hi rend="sup">r</hi>. <hi>Humfrey Vincents</hi> Sermon, as it was Preached and Penned by his owne mouth and hand. Confuting the Matter and confounding the Authour of that baſe-blaſphemous Pamphlet called The Coblers Sermon. <hi>M<hi rend="sup">r</hi>. Vincent</hi> who hath been a Preacher theſe five and twenty yeares, preached theſe two Sermons at Saint <hi>Georges</hi> Church in South<g ref="char:EOLhyphen"/>warke in the yeere 1641. The one on Friday the 10. the other on the Lords day, the 12. of December in the mor<g ref="char:EOLhyphen"/>ning.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Higgins</hi> at Crowne gate in Saint <hi>Toolles</hi> Street in Southwark. 1641.</p>
+            <pb facs="tcp:53660:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:53660:2" rendition="simple:additions"/>
+            <head>
+               <hi>To the HONOURABLE Houſe of</hi> COMMONS, <hi>now aſſembled in PARLIAMENT. And namely, To the right Worthy, and Wor<g ref="char:EOLhyphen"/>ſhipfull Gentlemen, Mr.</hi> Humfrey Salloway, <hi>and M<hi rend="sup">r</hi>.</hi> Robert Goodwin; <hi>His Majeſties Ju<g ref="char:EOLhyphen"/>ſtices of the Peace: Two Mem<g ref="char:EOLhyphen"/>bers of the ſaid Houſe.</hi>
+            </head>
+            <opener>
+               <salute>Right Grave and Gracious Senators,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am become ſo farre preſumptuous (let any man ſay ſawcy, if I may not ſay ſubmiſsive) as firſt to pre<g ref="char:EOLhyphen"/>ſent before you all theſe two enſu<g ref="char:EOLhyphen"/>ing Sermons: becauſe (the caſe and cauſe conſidered) I am not in the preſent paſſages particular, perſonall, private; but the Church of Chriſt amongſt us; hath herein alſo concernments, for the ſetting and ſetling whereof I ſee you both ſtuddy and ſtruggle. For (marking both the man and the matter, I meane both my ſelf and my Sermon, my trade and that which I taught) an information herein lies before you, what lyes are brought oftentimes to you, when you are infor<g ref="char:EOLhyphen"/>med that <hi>(now)</hi> ſuch perſons preach, and ſuch are the
+<pb facs="tcp:53660:3"/> points they preach on. For you Two, Right Worthy and Worſhipfull friends and favourers; I am thus bold to know you by name, now mine owne caſe is come unto the Stake, as well as Chriſts cauſe is come upon the Stage; becauſe the one of you, as you have above twenty yeares ſince heard mee preach divers Sermons, ſo I doubt not but divers times ſince that time you have heard, that I have constantly continued in the very ſame courſe of publike preaching. The other of you can be beſt of all inſtructed, that I did not preach theſe Sermons untill I was importuned. Yea, I doubt not, but it hath beene told you, that it was told me by an houſe like the houſe of <hi>Cloe,</hi> how wicked and willfull were the moſt of thoſe people, to whom I delivered this Text which hath ſuch terrour and thunder in it (ha<g ref="char:EOLhyphen"/>ving no thought concerning my Soveraigne, but of loyall and thankfull ſubjection) and that on the ſame day in the morning, in which I preached the firſt of theſe Sermons, I preached to another kind of people, other kinde of matter, that is more pleaſing, and ſo more proper. Now the God of Heaven (yee God on the Earth) guide you and guard you, give you counſell and give you comfort; do great things and good things for you, doe great things and good things by you, for his owne praiſe, which he gives to no man; and his peoples peace which he hath left as a legacie to them: So prayes he who prayes your pardon, if not your Pa<g ref="char:EOLhyphen"/>tronage.</p>
+            <closer>
+               <signed>H. VINCENT.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:53660:3"/>
+            <l> To the honeſt, holy, humble, hearty one,</l>
+            <l>To them, to each of them, to them alone.</l>
+            <p>
+               <seg rend="decorInit">B</seg>Eloved Friends: Mr. <hi>Calvin</hi> telleth us that Saint <hi>Luke</hi> rendreth ſuch a reaſon for the writing of his Goſpel, as a man would have thought would have taken him off from writing any Goſpell it all. <hi>Calvine</hi> on <hi>Luke</hi> 1. at the beginning. And I muſt render ſuch a reaſon of my ſtaying yet in <hi>London,</hi> as a man would imagine would make me fly and forſake <hi>London,</hi> that is to ſay, becauſe my perſon and my preaching was ſo <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, the 12. of <hi>December.</hi> After two Sermons preached there, the one on <hi>Friday,</hi> the 10. and the other on the Lords day, the 12. of the ſame Moneth; a pack of wicked, wilfull worldlings inhabiting within that place, or Pariſh, gave out in Print, that I was a <hi>Cobler</hi> (I am glad they did not call me <hi>Dawber,</hi> let no man ſay I meane or meddle with, or mention a <hi>Maſon)</hi> and broached ſundry Blaſphemies (I beleeve in the Taverne the ſame houre in which I preached in the Tabernacle) calling them <hi>the Coblers Sermon preached in Southwarke in Saint George his Church, on December</hi> 12. And that it was preach<g ref="char:EOLhyphen"/>ed by a <hi>Cobler</hi> of <hi>Holborne.</hi> Now as I who then preached a Sermon there, am no Cobler, nor ever was ſo, nor of any other Trade mechanicall; ſo I did not preach in that Sermon any thing at all for matter or manner, that hath any correſpondence or coherence with that more then peſtilent Pamphlet; which thing as they that heard it have deſiredly put their hands to, ſo (to make it more plain and perſpicuous) I am compelled to put pen to paper, and then to put in print the ſame Sermon (I meane the ſumme and ſubſtance of it) as it came through mine owne mind from mine owne mouth. That ſo this being com<g ref="char:EOLhyphen"/>pared with that lying libell, the contrariety that is betwixt
+<pb facs="tcp:53660:4"/> them may appear to all that run and reade them. And as I pro<g ref="char:EOLhyphen"/>teſt that I am no <hi>Cobler,</hi> nor of any other trade whatſoever (I think few in the world have ſpent fewer houres in things of the world, or have ſo little skill in managing outward mat<g ref="char:EOLhyphen"/>ters, I ſpeake this to my very ſhame) So I profeſſe that here you have it directly as I handled it, I mean the ſumme and ſubſtance of it, the particulars or paſſages in it. Pray for mee and my Brethren of the Miniſtery, that the Word of God may have free paſſage, and that we may be delivered from unrea<g ref="char:EOLhyphen"/>ſonable, and unruly men; for I ſee by moſt evident experi<g ref="char:EOLhyphen"/>ence <hi>that all men have not Faith.</hi> And thus praying the God of Glory to make us able to bear reproaches, and carefull to reape ſome good from them, I commend all the Iſrael of God to the onely God of Iſrael; and abide an unworthy Preach<g ref="char:EOLhyphen"/>er, and your faithfull Friend.</p>
+            <closer>
+               <signed>H. VINCENT.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:53660:4"/>
+            <l> BE <hi>Packing</hi> Lyars, look not hereupon;</l>
+            <l>This work ſhews <hi>VINCENT</hi> is not ſuch an one</l>
+            <l>As you give out; this proves that he is not</l>
+            <l>
+               <hi>Cobler,</hi> or <hi>Maſon:</hi> No ſuch <hi>dawbing</hi> ſot</l>
+            <l>Speaks ſo divinely, ſo distinctly, ſo</l>
+            <l>Directly. But why ſaid I <hi>Pack?</hi> youle goe</l>
+            <l>As farre as <hi>Dover:</hi> (yea youle fly away</l>
+            <l>As fast as you ran out, and durſt not ſtay</l>
+            <l>When you had heard his former Sermon: and</l>
+            <l>Saw him (to preach the latter Sermon) ſtand</l>
+            <l>Vpright ith Pulpit, when by this you ſee</l>
+            <l>Your pack of Knavery: <hi>yet be rul'd by mee.</hi>
+            </l>
+            <l>Stay, and aske him forgiveneſſe; leaſt hereafter</l>
+            <l>Such cureleſſe anguiſh doe ſucceed your laughter;</l>
+            <l>As none but he can helpe you under God,</l>
+            <l>When he ſhall whip you with that three ſtring'd rod</l>
+            <l>And then you cry: Thou <hi>Galileans</hi> Friend, <note place="margin">Vincens.</note>
+            </l>
+            <l>Thou haſt orecome us we are damn'd ith end.</l>
+            <l>
+               <hi>Viciſti Galilaei,</hi> was his ſong, <note place="margin">
+                  <hi>Julian</hi> the Apoſtate.</note>
+            </l>
+            <l>And ſuch an one will be your tune ere long.</l>
+            <l>And he that lives to ſee it, then will ſay,</l>
+            <l>
+               <hi>Vincent</hi> hath got the conqueſt and the day;</l>
+            <l>Vnleſſe you cry in middeſt of your woe,</l>
+            <l>Forgive us Lord, for wronging <hi>Vincent</hi> ſo;</l>
+            <l>Which thing I know he chiefly doth deſire,</l>
+            <l>And then Gods greatneſſe, goodneſſe will admire.</l>
+            <closer>
+               <signed>R. S.</signed>
+            </closer>
+         </div>
+         <div type="prefatory_poem">
+            <pb facs="tcp:53660:5"/>
+            <head>To all my Friends in St. GEORGE his Pariſh in <hi>Southwarke.</hi>
+            </head>
+            <l>Mr Friends (for I ſuppoſe I've ſome ſuch there)</l>
+            <l>Profit (I pray you) by theſe Sermons here,</l>
+            <l>And I will pray that God who muſt doe all,</l>
+            <l>Would make his Spirit on your ſpirits fall;</l>
+            <l>That ſo in truth, and ſpirit you may doe</l>
+            <l>What Preſſe as well as Pulpet moves you to.</l>
+            <l>For I muſt tell you by theſe preſents here,</l>
+            <l>If you practice not what I preached there,</l>
+            <l>That not alone the words which then I ſpake,</l>
+            <l>Will you without excuſes wholly make.</l>
+            <l>Not onely all the lines which now I print</l>
+            <l>Will cry againſt you, and will never ſtint;</l>
+            <l>But more and chiefly all the wrongs which then</l>
+            <l>I did ſustaine from thoſe unruly men</l>
+            <l>For preaching theſe unto you, will complaine</l>
+            <l>That they (ith gracious ſence) were felt in vaine,</l>
+            <l>And ſurely then (ith grievous ſence) youle ſee</l>
+            <l>That not a word, a line, a blow can bee</l>
+            <l>Receiv'd in vaine indeed, but record beare</l>
+            <l>Againſt all ſuch as ſmite, and ſee and heare.</l>
+            <l>And I would have you be aſſur'd as well,</l>
+            <l>If all ſhall help one precious ſoul from hell,</l>
+            <l>I will eſteeme my ſuffrings there as ſweet</l>
+            <l>As any thanks wherewith I elſewhere meet.</l>
+            <l>Read (Friends) remember, ruminate and doe,</l>
+            <l>So youle be ſafe from hell, and crowned too.</l>
+            <closer>
+               <signed>Yours: H. Vincent.</signed> 
+               <hi>Nomine ſum</hi> Vincens, <hi>animas ego vincere quaero; O vincam, vincam, gloria magna Deo.</hi>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:53660:5"/>
+            <head>The Summe of Mr. HUMFRY VINCENTS Sermons, as they were preached and penned by his owne mouth and hand.</head>
+            <epigraph>
+               <bibl>ISAIAH 30. laſt verſe: laſt branch.</bibl>
+               <q>—The breath of the Lord as a ſtreame of brim<g ref="char:EOLhyphen"/>ſtone kindleth it.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He whole verſe containeth a ſhort and ſharpe deſcription of <hi>Tophet,</hi> that is to ſay, (by way of alluſion or application) of the torments of hell. It is here two wayes ſet<g ref="char:EOLunhyphen"/>forth; or here are two things ſet downe concerning it.</p>
+            <list>
+               <item>1 The certainty of it.</item>
+               <item>2 The Severity of it.</item>
+            </list>
+            <p>The Certainty of it is ſet downe by</p>
+            <p n="1">1 The Antiquity of it, in theſe words, <hi>Tophet is prepared of old.</hi>
+            </p>
+            <p n="2">2 By the Generality of it, in theſe words, <hi>it is even prepared for the King,</hi> if he be wicked and willfull (let us bleſſe the Lord that we have a good King, not ſuch an one as that was)</p>
+            <p>The Severity is ſhewed two wayes alſo: by the</p>
+            <list>
+               <item>1. Extremity of it in theſe words, <hi>he hath made it deepe and large, the burning of it is fire and much wood.</hi>
+               </item>
+               <item>2. Eternity of it in theſe words, the words of the text; <hi>the breath of the Lord as a river of brimſtone kindleth it.</hi>
+               </item>
+            </list>
+            <pb n="2" facs="tcp:53660:6"/>
+            <p> Now the point of Doctrine taught from hence is this:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>
+               </label> 
+               <hi>As long as God breaths, and as ſtrong as God breaths, ſo long and ſo ſtrong ſhall the torments of hell endure.</hi>
+            </p>
+            <p>Now becauſe the Text is terrible, and the doctrine dread<g ref="char:EOLhyphen"/>full delivered thence, I will firſt give theſe Cautions to take off the tartneſſe of it (ſo farre as is lawfull and poſſible) from broken, bruiſed, bleeding conſciences.</p>
+            <p>Firſt, I confeſſe I am an Adamite, and have within mee an Adamant, a rocky, flinty, ſteely heart, or elſe I ſhould (like <hi>Origen</hi> with his text and teares) at leaſt ſpeake ſo pittifully, ſo pathetically, ſo paſſionately, ſo compaſſionately, that this my teaching ſhould have ſome coherence, ſome correſpondence with thoſe torments I ſpeak of. O to ſee how merry or mad rather, many millions of creatures are, (who as Doctor <hi>Hall</hi> hath taught us) dance a galliard over the mouth of hell fire, the lake of brimſtone, <hi>Where the breath, &amp;c.</hi>
+            </p>
+            <p>Secondly, No man can find a fault with me, who finds not firſt a fault in himſelfe; ſith (as our Saviour ſeems to expound it) <hi>their worme never dyeth, and the fire goeth not out:</hi> ſpeaking in the third perſon as well as the plurall number, thoſe tor<g ref="char:EOLhyphen"/>ments <note place="margin">
+                  <hi>Marke</hi> 9.</note> being ſo proper to the Reprobate, that Gods Elect ſhall never be toucht with them. And therefore as our Saviour ſaid to the women, <hi>fear not yee, for yee ſeek Ieſus,</hi> when he <note place="margin">
+                  <hi>Matt.</hi> 28.</note> had made the <hi>Souldiers quake.</hi> So I profeſſing that my ſcope and aime is to make them quake who wage warre againſt the Heavens, would not have Chriſts women to fear, we men and women who ſeek the Lord in the very truth and uprightneſſe of ſoule, muſt not feare any whit at all at the mention of hells eternall torments, ſith they ſhall not be overwhelmed with them, nor once feel them, though it may be may fear them.</p>
+            <p>Thirdly, as it was ſaid by Chriſt to his Father, <hi>thou wilt not leave my Soule in hell.</hi> So I will not (by Gods great bleſſing) leave your ſouls in the lake of brimſtone. But I will ſhew you not onely your caſe, but alſo the courſe you muſt take to get out of it: I will firſt diſcover your miſerie, and after that deli<g ref="char:EOLhyphen"/>ver the remedy. And therefore I cry concerning this diſcovery</p>
+            <pb n="3" facs="tcp:53660:6"/>
+            <l> Hands off, or heart on;</l>
+            <l>Heare all or heare none.</l>
+            <p>Fourthly, if ever I preach unto you againe, after I have finiſhed the point in hand, I will tell you (God willing) of life everlaſting. So that this Text (like a <hi>Iohn Baptiſt)</hi> as it comes roaring in the wilderneſſe of wickedneſſe, ſo ſhall it be afore<g ref="char:EOLhyphen"/>runner of Jeſus, a way maker for life everlaſting, to make us the more to prize it, and to praiſe the God of heaven for it, and to doe every thing, that we may attain it; according to that of the wiſeſt <hi>Solomon,</hi> Prov. 15. 24. <hi>The way of life is above to the wiſe, that he may eſcape hell below;</hi> that is, when a wiſe man conſiders, that he muſt goe to hell below, unleſſe he goe the way of life, that thought will be above objections, and all out<g ref="char:EOLhyphen"/>ward and inward oppoſitions to the contrary, to make him eſteeme that way of life, and all his life long to be walking in it.</p>
+            <p>Fifthly, ſo long as we are hearing of hell, ſo long we are yet out of hell. If any man therefore ſhould ſay, I will ſtay no longer to heare of hell, of the lake of fire, and <hi>that breath of the Lord which as a river of brimſtone kindleth it.</hi> And the Lord ſhould meet him at the Church doore, and ſmite him dead, and tumble him downe to hell (he departing in diſcon<g ref="char:EOLhyphen"/>tent at the truth and text we treat on) he will wiſh within this minute that he were here again hearing of hell, and not there howling in hell. O no doubt, but there are there many millions who would give millions of worlds that they were not in hell, not howling in hell.</p>
+            <p>Sixthly and laſtly; Let no man ſay that he will goe to diſ<g ref="char:EOLhyphen"/>prove what I have ſaid, for (as the Prophet ſaid to the King, <hi>If thou come againe, God hath not ſpoken by mee.</hi> 1 Kings 22.) So ſay I to thoſe that goe thither, if ever you return from hell, my doctrine is utterly falſe, which ſaith that the Torments of hell ſhall endure forever and ever, even as long as Jehovah breatheth. In (almoſt) all othermatters, it is beſt to ſpeake from ſelf experience, but for the torments of hell and the Peſti<g ref="char:EOLhyphen"/>lence, the Lord grant that we never know further, then what wee learn from Gods book and mans reports.</p>
+            <pb n="4" facs="tcp:53660:7"/>
+            <p> And ſo much for the Cautions, ſave onely that I make pro<g ref="char:EOLhyphen"/>feſſion, that what I ſpeake of the torments of hell is to preſerve and keep you out of hell, that you knowing the danger may ſtrive to eſcape the damnation.</p>
+            <list>
+               <item>1. Now I come to anſwer a queſtion.</item>
+               <item>2. And then to remove an objection.</item>
+               <item>3. And then to render a reaſon.</item>
+               <item>4. And then to make application.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> For the firſt of theſe, the queſtion is, whether there be not degrees of torments?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To which I anſwer, that of the leaſt degree of all, that is true which is taught in my text, that <hi>as long and as ſtrong as God breaths, ſo long and ſo ſtrong hels torments abide.</hi> But yet on theſe grounds, or for theſe reaſons there are degrees in that lake of fire and brimſtone.</p>
+            <p>Firſt, Some commit more ſinnes then others, and ſo ſhall be ſure to have more torments then others, according to thoſe texts, <hi>Revel.</hi> 18. <hi>Rom.</hi> 2. 4, 5, 6. And therefore I would not have you ſinne at all, yet as oft as I thinke on this, I cry with <hi>Solomon, Be not over wicked,</hi> Eccleſiaſtes.</p>
+            <p>2. Some have more meanes to reſtraine them then others have, and ſo ſhall have a deeper damnation then others have, according to that of our bleſſed Saviour, <hi>Matth.</hi> 11. when he ſpeaking of <hi>Bethſaida, Chorazin,</hi> and <hi>Capernaum,</hi> who had abounded with means and mercies, <hi>It ſhall bee eaſier for the land of Sodome in the day of Iudgement then for thee.</hi> And herein as our Saviour informs us, that if <hi>the blind lead the blind both ſhall fall into the ditch;</hi> we may ſay applyingly, and that moſt properly: the people if they be blind ſhall fall up to the knees in it; the Miniſter if he be blind, ſhall fall up to the mid<g ref="char:EOLhyphen"/>dle in it; the Biſhop if he be blind, ſhall fall over head and eares in it.</p>
+            <p>3. There are ſome who not onely have more means, but alſo more formall knowledge, according to that of our bleſſed Saviour, <hi>Luke</hi> 12. <hi>That ſervant who knoweth his Maſters will, and doth things contrary thereto, ſhall be beaten with many</hi>
+               <pb n="5" facs="tcp:53660:7"/> 
+               <hi>ſtripes.</hi> Many internall ſtripes in their ſpirits, whiles they abide here on earth, many infernall ſtripes in hell in the lake of fire and brimſtone.</p>
+            <p>4 Some have more hypocriſie then others, and accordingly ſhall have more torments, as our Saviour hath alſo told us, <hi>Matth.</hi> 23. <hi>Woe to you Hypocrites, who under colour of long prayers devoure Widows houſes, you ſhall receive greater dam<g ref="char:EOLhyphen"/>nation.</hi> A Covetous fellow would faine cover and cloake his Covetouſneſſe, and how I pray thee wilt thou doe it? why Ile become a profeſſour of Religion, and ſo cover and cloake it entirely; And ſee how fairly thou haſt covered it, before thou waſt a profeſſour, thou hadſt a great C written in thy fore<g ref="char:EOLhyphen"/>head, but now thou haſt two Capitall letters written there, even a great C, and a great H: a Covetous Hypocrite; And when death and doome appears, thou ſhalt have one degree of Torments for being a covetous perſon, another for being an Hypocrite, according to that of <hi>Ambroſe, Diſſembled Pietie is double iniquitie.</hi>
+            </p>
+            <p>5 Some have more cenſoriouſneſſe then others, and accor<g ref="char:EOLhyphen"/>dingly ſhall have deeper damnation; as it is ſaid by that ſon of Thunder, <hi>Iames</hi> 3. 1. <hi>My Brethren be not many maſters, knowing that ye ſhall receive the greater damnation.</hi> There are ſome ſuch medling maſters, that they will tattle of, and taske every one, one is preciſe in their opinion, becauſe he loves not, but loaths a Ceremonie; another is prophane in their eſteeme, be<g ref="char:EOLhyphen"/>cauſe he can endure a controverted circumſtance. Nay, there are ſome ſo divilized that when they cannot impeach mens practiſes, they will implead and improve their purpoſes, as the Devil though he ſaw his good works, and heard his good words, would yet affirme that he did it for his hedge, <hi>Iob.</hi> 1. But let us know that whoſoever when his neighbour hath done good actions will yet ſuſpect evil affections, whereas in the ſame Chapter wherein Chriſt ſaith, <hi>Iudge not,</hi> he ſaith afterwards, <hi>Ye ſhall know them by their fruits.</hi> Matth. 7. 1. 15, 16 ſhall as cenſurers, as condemners have a deeper degree of torments.</p>
+            <pb n="6" facs="tcp:53660:8"/>
+            <p> Sixthly, Some have more authority then others, more pow<g ref="char:EOLhyphen"/>er, more high places, and of theſe eſpecially my Text ſpeaketh as we may ſee by theſe words in the context, <hi>It is even prepa<g ref="char:EOLhyphen"/>red for the King</hi> (as I ſaid at firſt, ſo I ſay ſtill, let us praiſe God that we have a good King, and not ſuch an one as this was)</p>
+            <p>Now for the Objection, it is of two ſorts: for</p>
+            <p>Firſt, Some object their Perſons.</p>
+            <p>Secondly, Some object their Profeſſions for the eſcaping of hell torments, though they live, lye, and dye in their ſinnes.</p>
+            <p>Concerning Perſons. Firſt, Some object their Proſperity.</p>
+            <p>Secondly, Some object their Poverty.</p>
+            <p>The Divel perſwadeth rich men that howſoever they live as they liſt, yet they never ſhall be damned, becauſe they have place or power; But they muſt know that for theſe cauſes they muſt needs be damned if they dye in their ſinnes (Remember ſtill that I therefore ſhew you the danger, that you may ſo eſ<g ref="char:EOLhyphen"/>cape the damnation)</p>
+            <list>
+               <item>Firſt, Becauſe their conſolation is received.</item>
+               <item>Secondly, Becauſe their converſation is perceived.</item>
+               <item>Thirdly, Becauſe Gods expectation is deceived.</item>
+               <item>Fourthly, Becauſe the Divel their maſter is damned already.</item>
+            </list>
+            <p>I ſay, firſt (hearken ye rich men) you who are rich muſt needs be damned, if you be not bleſt with a ſecond birth, be<g ref="char:EOLhyphen"/>cauſe your portion is paid you already, according to the ſpeech of <hi>Abraham</hi> to <hi>Dives, Remember ſonne thou haſt had thy good things;</hi> and that of our bleſſed Saviour, <hi>Woe to you who are</hi> 
+               <note place="margin">
+                  <hi>Luke</hi> 16.</note> 
+               <hi>rich, for you have received your conſolation.</hi> And this I thinke makes many Gentlemen turne Papiſts, that ſo proving a pur<g ref="char:EOLhyphen"/>gatory, <note place="margin">
+                  <hi>Luke</hi> 6.</note> if it were poſſible, they might eſcape the lake of fire, ſith living in their ſinnes they cannot to heaven.</p>
+            <p>I ſay, ſecondly (give eare ſtill you rich men) you of power and place muſt needs be caſt to that lake of fire, unleſſe you be caſt in a new mould, becauſe the Divel through your ſides draweth after him millions of ſouls; if <hi>Dives</hi> give the poore man nothing, the text will tell us, that <hi>no man gave him.</hi> And ſo if rich men give no bread of life to their poore ſouls, will not
+<pb n="7" facs="tcp:53660:8"/> hear, repeat, and read the Scriptures, none of their family, friends or familiars will feed their poore ſouls, but make them faſt, and quite famiſh them. Let <hi>Saul</hi> kill himſelfe, and his armour bearer will kill himſelfe; let rich men kill their ſouls, and all their neighbours will kill theirs alſo, if it be but for cur<g ref="char:EOLhyphen"/>ſed company. And this doth make the Divel ſo deſirous to get Landlords, and great ones on his ſide: And this made <hi>Dives</hi> in hell ſo cager to have one ſent to warn his <hi>five Brethren</hi> that they come not to the <hi>place of torments,</hi> becauſe he being the heire drew them to doe the Divel ſo much ſervice. There<g ref="char:EOLhyphen"/>fore as we Miniſters ſhall ſhine as ſtarres, if we winne many to the paths of righteouſneſſe, <hi>Dan.</hi> 12. ſo ſhall they be tor<g ref="char:EOLhyphen"/>mented as Devils, who by their patterns as well as their pre<g ref="char:EOLhyphen"/>cepts draw others with them to the lake of fire and brimſtone, <hi>Where the breath, &amp;c.</hi>
+            </p>
+            <p>3. I ſay thirdly, (hearken ſtill ye rich ones) you who are rich muſt needs be damned, if ye doe not walk in the paths of piety, becauſe you fruſtrate the Lord of his expectation. For to what end doe ye imagine hath the Lord filled your bags and barnes, fed you with dainties and all kinde of delicates, was it for this, that you might offend him with his owne bleſſings, with his owne benefits? as it were wound him with his owne weapons? which of you would not be provoked, exceedingly incenſed, yea and enraged, if the man whom you have beene kind to, ſhould fly in your faces with the fruits of your kindneſſe? And I aſſure you, that the God of heaven who hath been ſo beneficiall and bountifull to you, that you cannot alledge (as many poore creatures doe) that they can<g ref="char:EOLhyphen"/>not come to the preaching of the word, for fear their children ſhould fall in the fire at home, they having no ſervants, nor money to hire them, I aſſure you that the God of heaven will <hi>not be mocked,</hi> though he ſeeme to be fruſtrated, but will croſſe your expectation as you croſſe him in that which he looks for; that is to ſay, (as he ſaith of the vineyard) <hi>I looked for grapes and behold wild grapes, cut it down.</hi> Iſai. 5. When you expect to be carried to heaven, he will hurry you to the
+<pb n="8" facs="tcp:53660:9"/> lake of fire and brimſtone, and there in mockage will cry <hi>Sonne</hi> to you, when you cry <hi>O Father Abraham.</hi>
+            </p>
+            <p>I ſay fourthly (hearken once againe ye rich men) you who have place and power muſt needs be damned, if you have not power to bewaile your ſinnes, and take care for your ſoules, becauſe the Divel who is your maſter is damned already, and appointed to torments. The devil, you know very well, is, as he is called, <hi>the Prince of the world:</hi> every one is his ſlave, his very vaſſal, who lives in, and loves his ſinfull courſes, and will not be recovered, will not be reclaimed from them. Now (as the ſame ſaving mouth hath taught us) <hi>the ſervant is not above his maſter,</hi> you muſt not think much to be dealt with as he is done to; and thence is it, that Chriſt our Saviour, when he had ſaid, <hi>Depart ye curſed to everlaſting fire,</hi> to men who were great and glorious, rich in the world, full of pompe and pride (for he endites them for <hi>not feeding him, for not cloathing him,</hi> which poore men cannot doe) he adjoynes <hi>with the Divel and his Angels,</hi> in the cloſe of that his dreadfull diſmall reje<g ref="char:EOLhyphen"/>ction, <hi>Matth.</hi> 25. 41. As if he had ſaid, you muſt not mutter, murmure or marvaile, for you are but dealt with as your maſter the Divel is dealt with. And theſe are the four reaſons why rich men muſt needs be damned, if they abide in their looſeneſſe, luſts and lewdneſſe. And I ſay againe as I ſaid be<g ref="char:EOLhyphen"/>fore, that I ſpeake it to this very end, that ſeeing the danger, you might take warning and not goe to the place of torments, which <hi>the breath, &amp;c.</hi>
+            </p>
+            <p>Now you poore men you have heard this greedily, hearken I pray you now to ſome reaſons, wherefore you, if you be not poor in ſpirit muſt needs be thrown to the lake of fire, which <hi>the breath, &amp;c.</hi>
+            </p>
+            <p>But firſt becauſe you thinke that your Poverty is your Pur<g ref="char:EOLhyphen"/>gatory, I pray you looke on the Epiſtle of <hi>Iude,</hi> verſe 7. where you ſhall ſee that <hi>Sodome</hi> and <hi>Gomorrah,</hi> though it were bumt with materiall fire, and ſo the Inhabitants were made examples by being ſo burned in it, yet this did not keep them from hell, <hi>they ſuffer the vengeance of eternall fire:</hi> And you,
+<pb n="9" facs="tcp:53660:9"/> though you be poore, may yet goe to hell after that extremity, yea you muſt, if you die in your ſinnes, and that for theſe three reaſons or cauſes, and I ſay to you as I ſaid to rich men, I tell you to this end, that in the end you may eſcape it by true and timely and tractable turning.</p>
+            <list>
+               <item>The firſt is drawn from the <hi>Initiation.</hi>
+               </item>
+               <item>The ſecond drawn from the <hi>Invitation.</hi>
+               </item>
+               <item>The third drawn from the <hi>Irritation.</hi>
+               </item>
+            </list>
+            <p>For the firſt of theſe, God hath even begun the torments of hell in you, if you doe not forſake your luſts, ere you looſe your lives. Your poverty will not be a preſervation from, but a preparation to that lake of brimſtone: your want of drinke is a very forerunning of your wanting <hi>Water</hi> when you come to hell. To others it is a croſſe to you a curſe, a very earneſt of, and entrance into the unſpeakable unquenchable flames, <hi>the plague is begun,</hi> you are in the porch of this ever-tormenting <hi>Tophet,</hi> as ſure as the land of Canaan was a type of heaven and endleſſe happineſſe.</p>
+            <p>For the ſecond: you are Gods eſpecially invited gueſts, <hi>the</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 11. 5.</note> 
+               <hi>poore</hi> (ſaith Chriſt) <hi>receive the Goſpel:</hi> And he hath ſent me to preach glad tidings to the poore, <hi>hath exalted them of low</hi> 
+               <note place="margin">
+                  <hi>Luke</hi> 1. 52.</note> 
+               <hi>degree.</hi> Now if a great Earle or Duke ſhould come to lodge within your pariſh, and ſhould make choice of ſome of the riffe raffe refuſe among you to keep him company, and come to ſup with him, and they ſhould diſdainfully refuſe the meſ<g ref="char:EOLhyphen"/>ſage, how would it provoke him and perſwade him to be re<g ref="char:EOLhyphen"/>venged. Hearken therefore O ye of the poorer ſort, <hi>hath not God choſen the poore to make them rich in grace and glory,</hi> doth he not offer you by the preaching of his word to become <hi>Heires of the Kingdome which he hath prepared,</hi> James 2. 5. Doth he not ſay to this effect to you, you who are the caſt<g ref="char:EOLhyphen"/>offs, the very caſtawayes of all the Countryes, have neither honours nor holes for your heads, I will make you royall Monarchs, give you eternall Crowns, and Kingdomes perpetu<g ref="char:EOLhyphen"/>all, Thrones which will ever abide with you. And will hee not (think you) if ye refuſe and reſiſt his offer be as excee<g ref="char:EOLhyphen"/>dingly
+<pb n="10" facs="tcp:53660:10"/> incenſed as he was when he ſaid, <hi>None of them who were bidden ſhall tast of my Supper.</hi> Luke 14. 24. yea aſſuredly he will throw you to Tophet, tumble you down to eternall tor<g ref="char:EOLhyphen"/>ments with deep diſdaine and unſpeakable deriſion.</p>
+            <p>For the third: if you poore come not in at his glorious call to you, he hath now (to ſpeake after the manner of man) no way to redreſſe, no means to relieve you. It is Gods courſe when he cannot bring us to him by other means, his word, the motions of his Spirit, his mercies to affect and allure us, to doe to us as <hi>Abſalom</hi> dealt with <hi>Ioab,</hi> when he would not come at his ſending for: <hi>Goe burne his Corne</hi> (ſaith he to his ſervant) and then he comes and expoſtulates the caſe with him: And ſurely as it is the burden of the Pſalmiſts ſong, <hi>when he ſlew them then they ſought him,</hi> Pſal. 107. So many <hi>Manaſſes,</hi> the Prodigall, and many others have come to God in their po<g ref="char:EOLhyphen"/>verty and miſery, who when they were wealthy waxed wan<g ref="char:EOLhyphen"/>ton, and kickt up the heel againſt him. And (commonly, or<g ref="char:EOLhyphen"/>dinarily, uſually) when poverty cannot part mens ſoules and their ſinnes, it parts them and his Spirit, and he ſayes, <hi>I will ſmite you no more,</hi> till I tumble you downe to the place of tor<g ref="char:EOLhyphen"/>ments. O that therefore (for I ſay againe, I ſay it for this that you might be warned) O that ye poore would come in your povertie, leaſt after your earthly poverty, you meet with that helliſh miſery, <hi>where the breath of the Lord as a river of brim<g ref="char:EOLhyphen"/>ſtone kindleth the fire.</hi>
+            </p>
+            <p>So much to anſwer the objection in regard of mens Per<g ref="char:EOLhyphen"/>ſons. Now I come to that objection which reſpects Profeſſi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> O (ſay many) this were true if it were preached among Pa<g ref="char:EOLhyphen"/>gans, but we are Proteſtants, and by being Proteſtants wee ſhall eſcape the lake of brimſtone.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To which I anſwer that as of all men Proteſtants indeed, reall Proteſtants are moſt free, moſt farre from Tophet (ſuch as ſtand for the Lord Jeſus alone againſt the Devil, the world, and themſelves) ſo the wicked, the wilfull Proteſtants, ſuch as call themſelves ſo, and thinke thereby to eſcape damnation,
+<pb n="11" facs="tcp:53660:10"/> and yet contrary to Gods commandment will ſell their drinke to drunkards on the Sabbath, whilſt their poore families faſt and famiſh in their owne houſes; I ſay, ſuch as ſay they are Proteſtants, and are not, ſhall above all the people in the world be ſure to be damned, ſeverely tormented; and that for theſe two reaſons.</p>
+            <list>
+               <item>Firſt, from Gods Proteſtations.</item>
+               <item>Secondly, From Gods Preparations.</item>
+            </list>
+            <p>For the firſt of theſe: God hath proteſted ſolemnly, ſworne the damnation of ſuch as have his voice ſounding in their eares, and will not hearken, will not obey it. It is every day read in our Church, and wiſely appointed by way of preparation to other parts of Gods word and holy worſhip: <hi>To day if yee will hear his voice, harden not your hearts;</hi> and then to ſuch as refuſe and reſiſt he ſaith, <hi>I ſware in my wrath that they ſhould not enter into my rest,</hi> not into Canaan a type of the kingdome of heaven, not into the kingdome of heaven, and therefore neceſſarily muſt to hell. I never read, at leaſt re<g ref="char:EOLhyphen"/>member not, that ever the Lord hath ſworne the death and damnation of Pagans. <hi>The mouth of the Lord hath ſpoken it,</hi> and it will lie heavy and hard on their ſouls to doome and damne them to everlaſting woe, unleſſe at length they get the knowledge and faith of the Lord Jeſus. But as there is a main and manifeſt difference in thoſe words of our bleſſed Saviour, <hi>Whoſoever ſhall fall on that ſtone ſhall be broken, but on whom<g ref="char:EOLhyphen"/>ſoever it ſhall fall it ſhall grind him to powder,</hi> Matth. 21. So God himſelf turns Proteſtant for the curſing and confounding of ſuch falſe Proteſtants, as are and abide in their damned wayes untill they die, as ſure as he is truth who ſaith, <hi>Verily, Verily</hi> (to ſuch as profeſſed the paths of pietie) <hi>except a man be borne againe he cannot ſee the Kingdome of God.</hi>
+            </p>
+            <p>For the ſecond, that is, Gods preparations, wee are to know that willfull Proteſtants are</p>
+            <list>
+               <item>1. Fitted for, and then</item>
+               <item>2. Fatted for endleſſe torments. They are</item>
+               <item>
+                  <list>
+                     <item>1. Fitted with Sermons.</item>
+                     <pb n="12" facs="tcp:53660:11"/>
+                     <item>2. Fatted with Sacraments.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Firſt I ſay, fitted with Sermons. Gods Miniſters words will make you without words; their ſpeeches will make you not cloke you, but uncloke you; their vocall trumpets will fit you to hear with horrour the reall trumpet at the laſt day, if you wallow in the luſts of your ſouls, and walke in your ſinnes without repentance, 2 <hi>Cor.</hi> 2. In a word, the Word of life <hi>will be a ſavour of death to death to you,</hi> as many of you as plead you are Proteſtants, and live the lives of Pagans and Pa<g ref="char:EOLhyphen"/>piſts, prophaning the ſanctified Sabbaths of Chriſt by ſelling beer to ſuch beaſtly baſe Belly-gods, as make their wives for want of maintenance not feaſt but faſt; and ready to famiſh with their children and ſervants at home in their houſes.</p>
+            <p>Secondly, I ſay they are fatted with Sacraments. Fooliſh falſe and feigned Proteſtants doe dayly drink down their own damnation in that moſt ſacred Supper of the Lord, ſo ſaith S. <hi>Paul,</hi> 1 Cor. 11. 29. But becauſe he foreſaw that it would touch and ſo trouble many mens minds, he ſaith before, as I of this, and of all my whole diſcourſe concerning this dreadfull damnation: <hi>What</hi> I <hi>delivered to you,</hi> I <hi>received of the Lord,</hi> verſe 23. as if he had ſaid, if ye will needs quarrell, quarrell with my Maſter, not with me his meſſenger. But you will ſay that in ſo ſaying, I doom and damne without all remedie, for paſt helpe, paſt hope alſo, if there be no cure there needs no care. To which I anſwer, that as I and that Apoſtle ſay no more then your Common Prayer book ſaith, which hath theſe very words and ſyllables: <hi>then we are guilty of the body and bloud of the Lord, we eate and drink our own damnation, &amp;c.</hi> So I my ſelfe did three or foure times eate and drink mine own damna<g ref="char:EOLhyphen"/>tion alſo, even in the 17. 18. 19. 20 yeare of my life. Now the way to prevent our going into this Tophet, this place of tor<g ref="char:EOLhyphen"/>ments, is to take a deep vomit of ſorrow, to purge out this poy<g ref="char:EOLhyphen"/>ſon, and prevent everlaſting perdition; and (as <hi>Solomon</hi> ſaith to his ſonne, <hi>above all thy gettings get underſtanding)</hi> ſo ſay I to my ſelfe and every one, above all our ſorrow, let our chiefeſt ſorrow be this, that we were <hi>guilty,</hi> and guilty of <hi>Bloud,</hi> yea
+<pb n="13" facs="tcp:53660:11"/> and guilty of the bloud of the <hi>Lord,</hi> as it is in the 27 verſe. And ſtill I beſeech you remember that I ſpeak all by way of pre<g ref="char:EOLhyphen"/>vention.</p>
+            <p>Now I come to render the reaſons of the doctrine delive<g ref="char:EOLhyphen"/>red to you, to ſhew you why the torments of hell are ſo ex<g ref="char:EOLhyphen"/>treame, or as ſtrong as the <hi>breath of the Lord is:</hi> and then why they are everlaſting, or abide as long as <hi>the breath of the Lord abides.</hi>
+            </p>
+            <p>For the firſt, Thoſe torments are ſo extreame, becauſe of the
+<list>
+                  <item>1. Nature. And then the</item>
+                  <item>2. Number of thoſe that muſt inhabite in that Tophet, that place of torments.</item>
+               </list>
+            </p>
+            <p>And both theſe are ſet downe together in one and the ſame Pſalme and verſe, <hi>Pſal.</hi> 9. 17. <hi>The wicked ſhall be turned to hell, and all the Nations that forget God.</hi>
+            </p>
+            <p>
+               <hi>The wicked ſhall be turned into hell.</hi> There is the Nature of the Inhabitants, namely, that they are foes not friends, who muſt goe thither.</p>
+            <p>
+               <hi>And all the Nations that forget God.</hi> There is the Number of the Inhabitants.</p>
+            <p>For the firſt of theſe, wee are to know that they are not Gods friends but his foes who muſt there be tormented in fire and brimſtone.</p>
+            <p>Indeed here on earth God hath ſcourges for his very friends, his owne ſervants; and wicked men are jocund and joviall, glad at heart when they ſee them ſo done to, ſo dealt with. But had they but eyes in their heads, that ſight would move and make that <hi>their laughter be turned to mourning,</hi> They would conſider what <hi>Solomon</hi> ſaith, <hi>Prov.</hi> 11. laſt verſe, <hi>Behold the Righteous ſhall be recompenced on the earth, how much more the wicked and ungodly</hi> in the horrible lake of brimſtone. They would lay to heart that ſpeech of a greater then <hi>Solomon</hi> (which ſeems a commentary on that paſſage of <hi>Solomon)</hi> who when he had ſaid, that the workers of wickedneſſe ſhould <hi>cry to the mountains to cover them, and to the rockes to fall upon them,</hi> addeth this, <hi>if this be done to a greene tree, what ſhall be</hi>
+               <pb n="14" facs="tcp:53660:12"/> 
+               <hi>done to the dry?</hi> They would conclude as <hi>Peter</hi> doth, when <note place="margin">
+                  <hi>Luke</hi> 23. 30. 31.</note> he had told us that <hi>Iudgement begins at the houſe of God,</hi> 1 Pet. 4. 17. 18. 19. <hi>If the Righteous ſcarce be ſaved, where ſhall the wicked and ſinner appeare? And if it begin with us, what ſhall be the end of thoſe who obey not the Goſpel of Chriſt?</hi> And truly as our Saviour ſaid to cleare the eyes, and chear the heart of his dropping and drooping Apoſtles, <hi>Conſider the Lillies how they neither ſow nor ſpin, and yet your father feeds them, are not ye better than they?</hi> So would I ſpeake to fire and fright wilfull men from their wicked maners: Conſider the Lillies a<g ref="char:EOLhyphen"/>mong throns, for they neither ſwear nor be drunke, and yet the Father of heaven feedeth them with the bread of trials and tribulations; and are not yee worſe then they? and are not worſe things prepared for you in that terrible place of tor<g ref="char:EOLhyphen"/>ments? yes aſſuredly ſuch unſpeakeable woes and miſeries as <hi>Solomon</hi> and <hi>Peter</hi> could not expreſſe, Chriſt himſelf as he was the mediatour man in the fleſh would not reveale to us, and therefore they ſpeak interrogatively, <hi>How much more? what and where?</hi>
+            </p>
+            <p>For the ſecond: We are to believe that in hell all the wick<g ref="char:EOLhyphen"/>ed and ungodly, all that prophane the Lords Sabbaths by ſel<g ref="char:EOLhyphen"/>ling their wares without neceſſity, all that live in any ſinne whatſoever without true and timely repentance. All in this Citie Pariſh, in this Citie, in this kingdome, in this world, all that ever were, that now are, that hereafter ſhall be, even all that forget God, have no care to keep his commandments, they ſhall all meet together, all they, and none but they, not one of the Saints of the Lord, no, not one of his faithfull ſonnes and ſervants ſhall there meet, and be tormented in all extremi<g ref="char:EOLhyphen"/>tie to all eternitie. And as this cryeth to ſuch men as long as they are on earth, <hi>O conſider this you that forget God, leſt he teare you in pieces, when there ſhall be none to deliver you,</hi> Pſalm. 50. 22. So the Lord when he would expreſſe the horror of hell, its extreme and moſt terrible torments, names a catalogue of ſuch curſed ones, as muſt to the lake of fire and brimſtone. For inſtance, <hi>Revel.</hi> 21. 8. <hi>the fearfull, and the unbeleeving,</hi>
+               <pb n="15" facs="tcp:53660:12"/> 
+               <hi>and the abominable, and Murtherers, and whoremongers, and ſorcerers. and Idolaters, and all Lyars ſhall have part in the lake that burnes with fire and brimstone</hi> &amp;c. As if he ſhould ſay, when the Lord hath his foes, as <hi>Nero</hi> of <hi>Rome</hi> deſired to have his all together, to cut off their heads all at a blow, when (as <hi>Iehu</hi> once made enquiry) there is not one of the <hi>Lords Pro<g ref="char:EOLhyphen"/>phets</hi> there, not one of his owne people for whoſe ſake, or at whoſe entreaty he uſed to ſtop or ſtay his ſury here on earth, when wicked mens ſinnes made him ſend peſtilences and plagues, then he will put them to all extremity, <hi>breath</hi> upon them with the utmoſt of his fury, uſe no moderation in, or mi<g ref="char:EOLhyphen"/>tigation of his heavy anger and hot diſpleaſure.</p>
+            <p>But you will ſay, it is true indeed that theſe reaſons do make it manifeſt why hell torments ſhall be ſo terrible; But why ſhould they be perpetuall? why ſhould we who ſinne but for a ſeaſon, ſuffer ſo long as Jehovah breaths, that is to ſay, for ever and ever?</p>
+            <p>To which I anſwer, that temporary ſins deſerve eternall or infinite torments for divers juſt and weighty cauſes, but I will onely inſiſt on two.</p>
+            <list>
+               <item>Firſt, the Offendeds perſon.</item>
+               <item>Secondly, the Offenders purpoſe.</item>
+            </list>
+            <p>For the firſt of theſe, we are to know that ſinne, the leaſt ſinne, the firſt ſinne that ever we act, is done againſt God, the God of heaven, againſt an Eternall, an infinite God; as <hi>David</hi> acknowledgeth even then, when he had broken onely the ſe<g ref="char:EOLhyphen"/>cond Table: <hi>Againſt thee, thee onely have I ſinned,</hi> Pſal. 51. And ſurely moſt pat to our purpoſe doth our book of Pſalmes tranſlate and turne into verſe; both that and that which follows</p>
+            <p>
+               <hi>For thee alone I have offended, commiting evil in thy ſight:</hi>
+            </p>
+            <p>
+               <hi>And if I were therefore condemned, you were thy judgements juſt and right,</hi> And to come and cloſe with ſome of your conſciences, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any here ſhall here after prophane the Sabbath by ſelling <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> baſe fellows, who let their families faſt at home; who of doe you thinke you anger in this brother wick<g ref="char:EOLhyphen"/>ed wilfulneſſe, you will ſay a few Prieſts well it is true, you
+<pb n="16" facs="tcp:53660:13"/> anger me an unworthy preacher of the glorious Goſpel (for I tell you ſtill I aime at your ſalvation in ſetting before you this death and damnation) But doe you anger no man elſe? yes one, he who is God and man, He who ſaith, <hi>He that heareth you, heareth me, and he that despiſeth you, deſpiſeth mee,</hi> will be certainly angry with you; and is there none elſe angry, yes it followeth in that very place, and <hi>he that deſpiſeth mee, deſpi<g ref="char:EOLhyphen"/>ſeth him that ſent mee;</hi> So that God the everlaſting God is offended with you, when you breake the Sabbath, by that or any other prophanation, by that or any other ſinne or iniquity. And how juſt it is with the Lord to make you know whoſe Law you breake by it, by damning your ſouls eternally in hell for it, you may ſee by that which is done by Kings and Princes when they are prouoked. Doe not Kings, when men commit treaſon (which God Almighty preſerve and keepe us from) doe they not hang up the Traitors carcaſes, and then hang up by and by Proclamation, commanding in paine of the like puniſh<g ref="char:EOLhyphen"/>ment, that none touch or take downe thoſe Traitors carcaſes? And why (I pray you) doe Kings doe thus? not for further revenge on the luckleſſe creature, the liveleſſe carcaſſe: No, but to make it a laſting monument, that the thought of it might not rade in an houre, in a moment; yea if he could, he would have it hang there for ever and a day, for ever and ever: And why all this, but as for our warning, ſo to tell us that he is no peaſant, petty puny, but a Prince, a Potentate, a Majeſty, a Monarch. And in like manner the God of heaven, as he is <hi>known by his executing judgement;</hi> ſo he is known to be as he is, an Everlaſting, an Infinite Majeſty, by appointing for ſuch as offend him an everlaſting, an infinite puniſhment.</p>
+            <p>For the ſecond, the offenders purpoſe, we know that the Lord doth not looke ſo much at our actions, as he doth at our affections; doth not ſo much marke what we practiſe, as what we purpoſe, according to that of the Prophet <hi>Ieremy,</hi> Chap. 17. 10. <hi>I the Lord ſearch the heart, that I may give ac<g ref="char:EOLhyphen"/>cording to workes.</hi> And that which he hath often in the booke of the <hi>Revelation, I am be who try the heart, and ſearch the</hi>
+               <pb n="17" facs="tcp:53660:13"/> 
+               <hi>reines,</hi> that I may give every one of you according to the works of your hands. As if he had ſaid thus, I more mind what you deſire to doe, then what you doe indeed, both in your evil doing, and in your well doing, in your diſobedience as well as obedience. Now how doth a wicked wilfull ſinner intend to live and lye in his ſinnes (for if he hath a ſerious ſet<g ref="char:EOLhyphen"/>tled purpoſe of true Repentance, God will ſecond that firſt grace, and ſo he ſhall not to hell at all) doth he not intend to live in them ſtill? doth he not purpoſe to live in them as long as he lives? yea as the Scripture telleth us, that they <hi>grow worſe and worſe.</hi> So they have never ſo much as a though in<g ref="char:EOLhyphen"/>deed and truth of turning to God. Yea, ſhould they live ten thouſand yeares, yea millions of ages, yea even for ever and ever, they would be ſwearers, whores, drunkards, prophaners of the Sabbaths for ever and ever, yea for this very cauſe they would live, and live ever on the earth, if it were poſſible, that they may live in their ſinnes and iniquities, enjoy their luſts, wherewith they provoke the Lord. And is it not juſt with God then, who ſaies of the widow, ſhe hath <hi>given more then they all,</hi> becauſe ſhe gave all ſhe had, to bring men to endleſſe deſtruction, who ſinne here on the earth but a ſeaſon, ſith they give the devil all, all they are, and all they have, all the time they live on the earth, and wiſh and deſire they had more to beſtow on him? yea aſſuredly for this very cauſe alſo, becauſe their purpoſes are everlaſting, the Everlaſting God doth moſt rightly, moſt righteouſly bring wicked men to everlaſting woe and miſerie, to that Tophet, that hell fire, of which it is ſaid in the Text, <hi>The breath of the Lord,</hi> &amp;c.</p>
+            <p>And thus much of the Explication of the point, the Appli<g ref="char:EOLhyphen"/>cation (God willing) ſhall follow on the Lords day in the morning, at which time I promiſed to preach here againe, at your Parſons requeſt (as I am enformed) and the importunity of ſpeciall friends; and what I have ſpoken is to prevent theſe endleſſe flames.</p>
+            <div type="poem">
+               <pb n="18" facs="tcp:53660:14"/>
+               <l> THis was the Sermon which did ſo perplexe</l>
+               <l>The Drunkards and their harbourers, ſo vexe</l>
+               <l>Their very minds, made them ſo diſcontent</l>
+               <l>(As thoſe <hi>two Prophets wordlings did torment)</hi> 
+                  <note place="margin">Rev. 11. 10</note>
+               </l>
+               <l>That they endeavourd with all might and maine</l>
+               <l>That <hi>Vincent</hi> might by no means preach againe</l>
+               <l>In that ſame Church: but whatſoere they muſe</l>
+               <l>
+                  <hi>Vincent</hi> came thither, and did preach the <hi>Vſe</hi>
+               </l>
+               <l>Of that ſame Doctrine: when they ſaw him there,</l>
+               <l>They fled (I verily beleeve) for feare.</l>
+               <l>
+                  <hi>Herod feard John,</hi> and <hi>Felix trembled</hi> too</l>
+               <l>When <hi>Paul</hi> did preach as <hi>Vincent</hi> there did doe;</l>
+               <l>That is, when he did preach againſt that ſinne,</l>
+               <l>Which he then knew the Governour liv'd in.</l>
+               <l>But bleſt be God when they were runne away,</l>
+               <l>The Church was fill'd again to <hi>Vincents</hi> joy.</l>
+               <l>And ſurely God in wiſdome did diſpoſe,</l>
+               <l>That then his hearers ſhould be thoſe, not thoſe.</l>
+               <l>I meane, that they ſhould heare the meanes to be</l>
+               <l>From thoſe eternall fiery flames ſet free</l>
+               <l>Who loath'd their ſinnes; not they who plotted ill,</l>
+               <l>And were reſolved to continue ſtill</l>
+               <l>In curſed courſes. But yee fooliſh men,</l>
+               <l>Why did you fly from your owne mercie then:</l>
+               <l>There's ſure none other way t'eſcape that flame,</l>
+               <l>Then that which he did in that Sermon name,</l>
+               <l>Which he then preacht, and which here follows now,</l>
+               <l>No way but this doth Jeſus Chriſt allow.</l>
+               <l>Be are witneſſe then, that you your ſelves condemn'd,</l>
+               <l>When you the means of your eſcape contemn'd.</l>
+            </div>
+         </div>
+         <div type="sermon">
+            <pb n="19" facs="tcp:53660:14"/>
+            <head>THE SECOND SERMON.</head>
+            <epigraph>
+               <bibl>IS AIAH 30. laſt verſe: laſt branch.</bibl>
+               <q>—The breath of the Lord as a River of brimſtone kindleth it.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Point of Doctrine is this. <hi>So ſtrong as Gods breath is, and ſo long as the Lord breatheth, ſo ſtrong are the torments of hell, and ſo long they will abide.</hi>
+            </p>
+            <p>The Explication of the Point ſome of you heard on Friday night, I now come to the Application of it, wherein you ſhall ſee that which I then ſaid unto you, that I delivered it to this very purpoſe, that you doe that which <hi>Di<g ref="char:EOLhyphen"/>ves</hi> deſired to be done to his five Brethren, that is, may not come to that <hi>place of torments.</hi>
+            </p>
+            <p>And firſt this Text ſpeaks terrour or thunder to two ſorts:</p>
+            <list>
+               <item>Firſt, the Furious.</item>
+               <item>Secondly, the Curious.</item>
+            </list>
+            <p>The Furious are of two ſorts alſo:</p>
+            <list>
+               <item>Firſt the Diſſolute.</item>
+               <item>Secondly, the Reſolute.</item>
+            </list>
+            <p>For the firſt of theſe, there are ſome amongſt us who are ſo diſſolute in their courſes, that they feare nothing (if any thing at all) but the Lawes of men, their penalties and puniſhments. And when thoſe things are paſſed over, they think verily the worſt is paſt: but alas it ſhewes that they either read not, or remember not, or at laſt and leaſt reſpect not this Text and truth before us. The Whoremonger thinks when he hath paid the Paritor, that now the worſt is paſt, he may now to his harlot againe, it is but paying ſo much money againe, but he
+<pb n="20" facs="tcp:53660:15"/> forgets old <hi>Latimers</hi> new-years gift, <hi>Whoremongers and Adul<g ref="char:EOLhyphen"/>terers God will judge,</hi> he thinks not on this old Tophet, where he muſt be for ever tormented for it, if he doth not get a par<g ref="char:EOLhyphen"/>don from, and make his peace with the great Jehovah, deeply grieving for grieving his Spirit, by which men mortifie the deeds of the fleſh, <hi>Heb.</hi> 13. 4. <hi>Rom.</hi> 8. 13. The ſwearer ſwears he fears not an oath, the worſt is paſt, when his twelve-pence is paid (and ô that our prayers ſped not the worſe for want of making men pay their twelve-pences) But a ſonne of Thun<g ref="char:EOLhyphen"/>der will thunder againſt him crying, <hi>above all things my Bre<g ref="char:EOLhyphen"/>thren</hi> 
+               <note place="margin">
+                  <hi>Jam.</hi> 5. 12.</note> 
+               <hi>ſweare not,</hi> not onely chiefly, equally for fear of paying your ſhillings, but <hi>leſt ye fall into condemnation,</hi> leſt you goe to that place of torments, be burned for ever and ever in thoſe all furious flames of fire, which <hi>the breath of the Lord,</hi> &amp;c.</p>
+            <p>Thus of the diſſolute, now for the reſolute: there are ſome ſo ſet on their ſinnes, that when they he are what is ſaid in the Scripture every where, that is, no ſuch and ſuch can poſſibly come to the Kingdome of God, 1 <hi>Cor.</hi> 6. 9. 10. <hi>Epheſ.</hi> 5. 5. <hi>Gal.</hi> 5. 19. 20. 21. they bid a flat farewell to heaven, reſol<g ref="char:EOLhyphen"/>ving never to part with their ſinnes, till they of neceſſity muſt part with their ſoules; we will have harlots to be our heavens, we will have Punks to be our Paradiſes, (ſaies the ſenſualiſt to himſelfe, if not to his neighbours, having gotten whoresfore, heads with neighing) whatſoever come of us in time to come, though we looſe or leave that heaven, which without theſe our luſts would even be loathſome. But as from the doctrine now delivered, I would tell them, if I heard them ſay to their ſouls, we will rather reſolve to live unmarried, though we walke in our uncleanneſſe, then marry wives, and ſo having children be, and be accounted beggarly and baſe; as I would then (I ſay) ſay to them, as <hi>Paul</hi> ſaith in another caſe, <hi>It is better to marry then burne,</hi> 1 Cor. 7. So I ſay to them from this doctrine, that if they be not carried to heaven they muſt of neceſſity be hurried to hell, where are inutterable, unceaſeable torments: which when they conſider (O would they did conſider it) they will ceaſe to wonder why our ſweet Saviour Jeſus, who
+<pb n="21" facs="tcp:53660:15"/> in one place calleth the way to heaven, <hi>a ſtrait gate,</hi> Luke 13. 24. In another place calleth it eaſie, ſaying, <hi>my yoke is eaſie, my burden light,</hi> Matth. 11. 29. For as it is ſtraight foure wayes: or in foure reſpects. In reſpect of</p>
+            <list>
+               <item>1. Corruption.</item>
+               <item>2. Cuſtome.</item>
+               <item>3. Company.</item>
+               <item>4. Combats.</item>
+            </list>
+            <p>So it is eaſie alſo four wayes, or in four reſpects to Chriſtians.</p>
+            <p n="1">1. In regard of the love which they have to the Lord Jeſus Chriſt; which love makes all things delightfull, deſireable.</p>
+            <p n="2">2. In regard of the hope of heaven which they expect to enjoy, when they have finiſhed their worke in faith.</p>
+            <p n="3">3. In regard of the oyntment which they have received, and which enables them to runne with willingneſſe the way of Gods moſt good commandements.</p>
+            <p n="4">4. Chiefly by way of compariſon; In regard of the terrible torments of hell, which will ſeize with all ſeverity upon all that will not wet their feet or fingers in walking the narrow way, which leads to life everlaſting. O what, what would not be muſick, mellodious to the eare, mellifluous to the mouth to thoſe who are now in that place of torments, if it were ten<g ref="char:EOLhyphen"/>dred to them as a condition of their coming out of it againe to the earth? How ſweetly would the motion ſound, the mat<g ref="char:EOLhyphen"/>ter ſeeme (as indeed it would be) if it ſhould be ſaid to the ſouls in hell, you ſhall come out of your places of torments, ſo that you will be due and diligent hearers, carefull doers of the word of the Lord, and will ſubmit your ſelves to ſuffer ſcoffes and ſcornes, ſlanders and ſcourges, fires and fagots, and all ex<g ref="char:EOLhyphen"/>quiſite tortures that the wits and malice of men and Devils could invent againſt them, impoſe upon them. And thus much for terrifying of the Furious; now for the Curious, whom this Text alſo thunders againſt, they are ſuch as cannot be Sober-wiſe but Over-wiſe, who are alwayes prying into the Arke, asking (and that often with ſcorne and contempt) what God was doing in all that time before he made the world in the
+<pb n="22" facs="tcp:53660:16"/> firſt creation of it. Now theſe men muſt be anſwered thus, and that from the words in this very verſe, the beginning of it, that is to ſay, that this Tophet, this place of torments was <hi>pre<g ref="char:EOLhyphen"/>pared</hi> and that of <hi>old</hi> for ſuch falſe fooliſh fellows as they are; This <hi>old Tophet</hi> was God preparing all that time before the Creation for them, even for them, unleſſe they leave their diſ<g ref="char:EOLhyphen"/>daine and deriſion, and leave their carnall love to unedifying quirks and quiddities, and love ſound and ſolid diſcourſes, to ſpeake of things that belong to their <hi>Peace.</hi> As our Saviour ſaith to his ſervants, <hi>Except ye be converted and become as little children, ye ſhall not enter into the Kingdome of God:</hi> have no part or portion at all in it; when they (as we ſee in the words foregoing) were asking him a curious queſtion, <hi>Who ſhould be chiefe in the Kingdome of God?</hi> And ſurely as he intimates that men would rather ſeeke to get to heaven, then enquire who ſhall be greateſt in heauen: So doe I adviſe and admoniſh you (remembring that I doe not aime at dooming or damning you, but at doing what I can, that you may eſcape that dreadfull damnation) that you buſie your minds and mouths in enqui<g ref="char:EOLhyphen"/>ring of God and men, what courſe muſt be taken that old Tophet may not torment you, then in asking what he did ere the world was made, at which time he was ordaining it. And thus much for the uſe of terrour.</p>
+            <p>Now I come to a Uſe of reproofe: and herein I reprove two ſorts of perſons.</p>
+            <list>
+               <item>1. The Impenitent.</item>
+               <item>2. The Impatient.</item>
+            </list>
+            <p>For the firſt, I call them Impenitent who would willingly doe good duties, whereof they are convinced, though they will by no means be converted, nor fall about them, for feare of the threatnings and terrours of men. O that theſe men would but think of this Tophet, that they would but hearken to the words of our Saviour, who when he had ſaid, <hi>Beware of Hypocriſie,</hi> addeth immediately after another like inſtruction. <hi>And I ſay unto you my Friends, feare not them that kill the Bo<g ref="char:EOLhyphen"/>dy and then can do no more, but I will ſhew you whom yee ſhall</hi>
+               <pb n="23" facs="tcp:53660:16"/> 
+               <hi>feare, feare him that can caſt both body and ſoule to hell, yea,</hi> I <hi>ſay unto you feare him,</hi> Luke 12. 1. 2. 3. 4. 5. And ſurely as our ſweet Saviour ſaith to his hearers, <hi>if you cannot conceive</hi> 
+               <note place="margin">
+                  <hi>Matth.</hi> 13.</note> 
+               <hi>this Parable, how will you underſtand all Parables?</hi> So ſay I to thoſe that dare not doe their duties for feare of humane pu<g ref="char:EOLhyphen"/>niſhments; if ye cannot endure the breath of a man who carri<g ref="char:EOLhyphen"/>eth his breath in his very noſtrils, how will ye be able to endure the breath of the living God, who ſpans the heavens. And ſure (as the Prophet ſaith, <hi>If thou canſt not run with footmen, how will ye over-run horſemen?)</hi> when a man feels himſelfe unable to encounter the fury and frown of a mortall, and ther<g ref="char:EOLhyphen"/>fore ſtartles and ſtands at a ſtay, not daring to doe what his conſcience cryes out for; it ſhould make him ſet about it, and ſee that he be not by any means drawn from it, conſidering that otherwiſe he muſt for ever be tormented in that Tophet, where no prayer can be heard, no pity be had. And you verily are ſharply to be reproved as forgetters of this Text, as negle<g ref="char:EOLhyphen"/>cters of this truth which ſpeaks of hels extremitie and eternitie, which will ſeize upon all thoſe ſouls, who live and lye and dye in their ſinnes, as many as are drawne from the doing of what you are convinced, that it is the great Gods commandment, or driven to any thing which you are perſwaded God hath pro<g ref="char:EOLhyphen"/>hibited for fear of any thing that any man, all men can doe to you for the doing of the one and refuſing the other.</p>
+            <p>Secondly, this doctrine of hels extreme everlaſting tor<g ref="char:EOLhyphen"/>ments reproveth ſuch as are ſo Impatient, that they ſay none are ſo troubled as they are; whereas alas there are millions of millions, who are already in the place of torments, and would give a world of worlds (as they have not a drop of water for themſelves) that they might change eſtates with you, that they were on earth with all their miſery, with all their trouble and terrour of ſpirit; yea, there are ſome ſo diſcontent with their preſent condition, that they think to eaſe themſelves with their owne deſtruction, by making away themſelves as they ſay, and as it is called: But out alas as they cannot doe it, as they cannot make away themſelves at all (their eyes may be
+<pb n="24" facs="tcp:53660:17"/> plucked out, their hands and feet may be cut off, but the ſouls within them cannot be torn, or cannot poſſibly dye, cannot at all be deſtroyed) ſo could they doe it, could they teare it out of their bodies and bowels, what would they gain or get by it? to what purpoſe or profit were it? for then alas the ſame mi<g ref="char:EOLhyphen"/>nute, the ſame moment, they drop downe to this Tophet, to theſe torments where they muſt forever be in woe and miſery unſpeakable, unceſſable, unconceiveable, uncomparable. And therefore to theſe impatient ones I may ſay, as the Prophet <hi>Amos</hi> ſaith to others in ſome thing like them, <hi>Amos</hi> 5. 18. 19. 20. <hi>Woe unto you that deſire the day of the Lord: to what end is it for you? the day of the Lord is darkneſſe and not light. As if a man did fly from a Lion and a Beare met him, or went into the houſe and leaned his hand on the wall, and a Serpent bit him. Shall not the day of the Lord be darkeneſſe and not light? even very dark and no brightneſſe in it?</hi> O how much better were it for them (I am ſure the other is much more terrible) to keep out of hell as long as they can (like him that did eate and drinke though he not much mind to his meat, that he might keep as much as might be from the company of damned dead ones) and not to run and ruſh in affection, and to deſire to doe it in action into the lake of fire and brimſtone, into the horrible place of torments, where <hi>the breath of the Lord like a river of brimſtone kindles it.</hi>
+            </p>
+            <p>Now I come to the Uſe of Information, which flows from the doctrine now delivered, that the torments of hell are as long and as ſtrong as the force of great Jehovahs breathings. And theſe Informations have relations,</p>
+            <list>
+               <item>1. To the High Prieſt.</item>
+               <item>2. To the Preacher.</item>
+               <item>3. To the People.</item>
+            </list>
+            <p>Concerning the firſt, that is, the high Prieſt, the Lord Jeſus the onely Prieſt, if we ſpeak ſtrictly (and every true Chriſtian it a Prieſt as well as King, if we take the words largely, and not in ſuch a retired meaning) this doctrine informes us of theſe two things.</p>
+            <list>
+               <pb n="25" facs="tcp:53660:17"/>
+               <item>1. How needfull it was for Chriſt to be God.</item>
+               <item>2. How thankfull we ſhould be for Chriſt to God.</item>
+            </list>
+            <p>For the firſt of theſe, as the ſufferings of Chriſt had not been proper to us, ſo had they not been profitable for us, if Chriſt had not been God. For ſith the torments of hell are ſo extreme and ſo everlaſting, what could the death of all the Apoſtles, yea of all the Angels (if it had been poſſible for them to be paſſi<g ref="char:EOLhyphen"/>ble) have done to the freeing of us from thoſe extreme ever<g ref="char:EOLhyphen"/>laſting torments; yea when we lye in the day of our deaths, gaſping and going towards heaven and hell for ever, then will Sathan ſay unto us, now you muſt be damnd for ever and ever: No (will we ſay) we are redeemed and freed from it, and that by the precious blood of Chriſt. But he will reply unto us (as deriding our helpe and hopes) It is unpoſſible that Chriſt his bloud ſhould free you from hell, ſith it is to laſt forever, where<g ref="char:EOLhyphen"/>as the ſufferings of Chriſt were</p>
+            <list>
+               <item>In the Extremity, but three dayes.</item>
+               <item>In his Miniſtry, but three years.</item>
+               <item>In his whole Nativity, but three and thirty years.</item>
+            </list>
+            <p>And what coherence or correſpondence have the torments of hell with ſuch kind of ſufferings, what now will an Arrian an<g ref="char:EOLhyphen"/>ſwere? or any one elſe who is not akilled as well as ſchooled in the doctrine, the excellent doctrine of Chriſts eternall Divinity or Deity? ſurely then there will be no way to eſcape the eter<g ref="char:EOLhyphen"/>nall flames, and Sathans furious fiery dart, but by comforting his precious ſoul as the Lord commands us to comfort his peo<g ref="char:EOLhyphen"/>ple, that is to ſay, by telling and teaching them by that do<g ref="char:EOLhyphen"/>ctrine of Chriſt his Deity, that the Lord hath <hi>received double for all our iniquities and abominations;</hi> that is to ſay, that by his ſufferings who was an eternall perſon, and by his ſuffering the wrath of his Father an eternall perſon, the Lord hath freed us from an eternall lake of brimſtone, and brought and bought us an eternall weight of glory. And therefore our Saviour when he had promiſed to his people <hi>to give them eternall life,</hi> concludeth that promiſe with this confirmation, <hi>I and my Fa<g ref="char:EOLhyphen"/>ther are one:</hi> as if he ſhould ſay, as you by breaking my Fa<g ref="char:EOLhyphen"/>thers
+<pb n="26" facs="tcp:53660:18"/> law, who was an eternall God, have deſerved eternall torments by your temporary ſinning here for a ſeaſon, ſo I be<g ref="char:EOLhyphen"/>ing an eternall perſon, have by my temporary ſufferings in re<g ref="char:EOLhyphen"/>gard of time, freed you from thoſe eternall torments, and pro<g ref="char:EOLhyphen"/>vided for you an everlaſting crown of glory: ſith I am as he is coeternall and coequall. See therefore how meet it was that he ſhould be God as well as man; All the Apoſtles, all the Angels not being able to free one ſoul from one ſinne, and that the leaſt one: and ſee how needfull alſo it is for us to ſay in the end of our lives, <hi>In the beginning was the Word, and that Word was with God, and was God.</hi>
+            </p>
+            <p>Secondly, this truth teacheth us how thankfull we ſhould be to God for Chriſt, ſith <hi>quanto gravior, tanto ſuavior,</hi> the deeper the miſery, the ſweeter the mercy, when we are freed from the feare of it as well as the danger. And ſurely the thought of theſe unſpeakable, unquenchable flames ſets an high price on that more then precious bloud which was ſhed for this very end, that we may not be throwne to thoſe end<g ref="char:EOLhyphen"/>leſſe torments. And therefore as <hi>Paul</hi> when he ſets himſelfe to cry, <hi>I thank God through Ieſus Christ,</hi> cryes firſt, <hi>O wretch<g ref="char:EOLhyphen"/>ed</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 7. 24.</note> 
+               <hi>man that I am:</hi> and <hi>O death, where is thy ſting? O hell, where</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 15. 55.</note> 
+               <hi>is thy victory?</hi> So ſhould we take a deep draught of the woe<g ref="char:EOLhyphen"/>fulneſſe of hells horrour in our retiredſt meditation, that it may move us to praiſe the Lord for, and prize the cratch and the croſſe of our Saviour. We ſhould ſay as the Church in an<g ref="char:EOLhyphen"/>other caſe, <hi>If the Lord himſelf had not been on our ſide,</hi> if he had not endured extremities for us, <hi>the waters had drowned us, the</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 124.</note> 
+               <hi>deep waters had gone over our ſoules;</hi> yea the fire, the fire of hell had for ever burned our ſouls, &amp; burned our bodies in the lake of brimſtone, the place of torments, where the breath of the Lord is moſt hot and heavy, and will burne to the very bot<g ref="char:EOLhyphen"/>tome, without either brink or bottome: <hi>But praiſed be God, who hath not given us over as a prey unto their teeth.</hi> Yea, prai<g ref="char:EOLhyphen"/>ſed be God who by the precious blood of his Sonne hath freed us from thoſe flames, and purchaſed for us a Crowne which cannot be taken or ſhaken. And certainly for thoſe that make
+<pb n="27" facs="tcp:53660:18"/> Chriſts bloud a bawd for their ſinnes, and think of his ſhedding of it without adoring and admiring the mercie of the higheſt holieſt, heavenly, glorious Majeſty, it is plaine by the point now in hand, that they were never ſoundly affright with the thought of hels endleſſe eaſleſſe miſery; they never cryed out of the extremitie of hels torments, never conſidered of its eternitie, never read, never remembred with any ſerious ſettled ſollid contemplation this preſent Text, that tells and teaches us that <hi>the breath of the Lord like a river of brimſtone kindles</hi> its fiery flaming torments.</p>
+            <p>And thus much of thoſe two informations which concerne the High Prieſt, the Lord Jeſus, the ſonne of God. Now I come to thoſe informations which concern the Preachers of the Goſpel; and they are two alſo, reſpecting</p>
+            <list>
+               <item>Firſt, their Duty.</item>
+               <item>Secondly, their Dignity.</item>
+            </list>
+            <p>For the former, this holy doctrine, that the torments of hell abide as long, and are as ſtrong as the breath of the Lord is, calls and cries to the Miniſters of the word to <hi>dig</hi> and <hi>doung,</hi> to doe their duties to the very uttermoſt in preaching and preſ<g ref="char:EOLhyphen"/>ſing the words of truth and ſoberneſſe to, and on the conſcien<g ref="char:EOLhyphen"/>ces of men committed to their charge and charity. And thus Saint <hi>Paul</hi> pleads for his owne and others utmoſt endeavours. 2 <hi>Cor.</hi> 5. 10. and 11. verſes, when he had ſaid, <hi>We must all appeare before the Iudgement ſeat of Christ,</hi> verſe 10. he addes immediately as pondering on the weight and the proper effect of that meditation: <hi>Knowing therefore the terrour of the Lord we perſwade men,</hi> verſe 11. as if he had ſaid, when we duely conſider how terrible the torments are to which the Lord ſhall throw the moſt part, it ſhould make us willing to ſpend and be ſpent, to doe all we can, and more then we can, more then we can doe as meer men, and without that meditation, to ſave (if it were poſſible) the ſoules of all our hearers from it. O (we think) what more then pitty were it, that any one ſhould dye and be damned, ſhould be caſt to thoſe fiery flames, which are ſo terrible, ſo everlaſting, through any default of ours,
+<pb n="28" facs="tcp:53660:19"/> through want of ſpending our lights and our lives. And indeed the very cauſe why many Miniſters are ſo ſloathfull, ſo very ſlack in doing their duties, is their ſeldome or never thinking of theſe more then terrible torments. O did they contemplate, conſider deeply, duly, diligently, what is in Tophet, the place of torments, they would (like <hi>Chryſostorne</hi> with his <hi>Heri,</hi> who ſaith the onely way to keepe out of hell, is often to thinke and ſpeak of hell; And like <hi>Calvin</hi> with his <hi>Cras,</hi> who ſaid to him who would have had him have ſpared himſelf, <hi>would you have Chriſt when he comes to finde me idle)</hi> they would preach (I ſay) the word which is appointed to ſave mens ſouls upon all occaſions in all opportunities. O that therefore (for I will not meddle with that ſpeech of old father <hi>Latimer,</hi> who ſaith that if we could looke down into hell, we ſhould ſee as many dumb dogs there, as would reach from <hi>Weſtcheſter</hi> to <hi>Dover,</hi> neither will I mention that other paſſage which I lately had in another place, concerning the crying out of the Dawbing preacher a<g ref="char:EOLhyphen"/>gainſt the people, and of the people againſt the Preacher; the people crying out in the lake of brimſtone, woe unto thee thou Dawber, for thou art the cauſe of our damnation, be<g ref="char:EOLhyphen"/>cauſe thou didſt not warn us: and the Preacher anſwering, woe unto you, you prophane ones, for you are the cauſe of my dam<g ref="char:EOLhyphen"/>nation, becauſe I durſt not warne you) I ſay, O that therefore all Miniſters would with <hi>Ierome</hi> think they hear the trumpet ſound, crying, <hi>Awake ye dead, and come to Iudgement.</hi> O that (to make them take heed to their flocks and families) they would thinke of this preſent text which ſaith concerning hell, and its fire, that <hi>the breath of the Lord like a river of brimſtone kindles it.</hi>
+            </p>
+            <p>And thus of the duty which this truth puts Miniſters on. And I ſay thus much further of it, that the thought of it maketh Miniſters goe home, and beg pardon for their remiſſeneſſe, when corrupt and carnall men cry out of them for their over earneſtneſſe. O we ſhould never ceaſe ſpeaking of that which will never have end. Now I come to ſpeak of their Dignitie, as it flowes from the doctrine here delivered, and therein I con<g ref="char:EOLhyphen"/>ſider two things alſo.</p>
+            <list>
+               <pb n="29" facs="tcp:53660:19"/>
+               <item>1. The Excellencie of it.</item>
+               <item>2. The Efficacie of it.</item>
+            </list>
+            <p>For the firſt of theſe, we are to ſay, in an holy, honeſt, humble ſort (when we think of the endleſſe eaſeleſſe torments) <hi>Let a man thus thinke of us,</hi> 1 Cor. 4. 1. For what is it that dignify<g ref="char:EOLhyphen"/>eth Lawyers, but their Clients? or what magnifies many Phy<g ref="char:EOLhyphen"/>ſicians, but their Patients? O if there were any one of them, who had recovered, reſtored to life one dead many dayes and weeks, ô what a adoring, what many wayes more then appro<g ref="char:EOLhyphen"/>ving, applauding would there then be among the beholders, all that ſee it would ſay he is eminent, excellent. And ſurely every Miniſter who can ſay, and ſay in truth that he hath wonne any one to the truth from the lake of fire, this moſt terrible place of torments, he is to be prized and praiſed God for, more then all the Lawyers in the kingdome, more then all the Phyſicians in the world; Foraſmuch as men have longer been dead in ſinnes and treſpaſſes: and by how much this dreadfull damna<g ref="char:EOLhyphen"/>tion is more terrible then death of the body. Poore people (the more the pitty) think our work to be burying the dead: butah he that thinks on this truth, will ſee matter of much more moment, even that which one aimed at, when he ſaid to him whom he enjoyned to ſo low him, <hi>Let the dead bury the</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 8.</note> 
+               <hi>dead, but goe thou and preach the Kingdome,</hi> to helpe poore ſouls from the lake of brimſtone; nay he that weighs this do<g ref="char:EOLhyphen"/>ctrine delivered, ſhall ſee cauſe why the Apoſtles ſhould ſay, <hi>It is not meet to leave the word of God and ſerve at tables,</hi> ſith <note place="margin">
+                  <hi>Act.</hi> 6.</note> collecting for the poore doth but keepe them from wanting drinke, but Miniſters handling the Word of God will by the breathing and bleſſing of God help poore ſouls from wanting Water. And whereas ſome Miniſters thinke themſelves more worth then their fellowes, becauſe for ſooth they are become high Commiſſioners, and ſo neglect preaching themſelves, and contemne and condemne it in others, let them know that their being Commiſſioners is not at all within their commiſſion, they have worke of more weight, of more worth, could they but ſee it, and it is juſt with the Judge of heaven to caſt contempt
+<pb n="30" facs="tcp:53660:20"/> on their proud preſumptuous carriages, for leaving that honou<g ref="char:EOLhyphen"/>rable employment, which the <hi>Angels deſire to look into,</hi> but <note place="margin">1 <hi>Pet.</hi> 1. 11. 12.</note> may not meddle with, but ſpeake to preachers to undertake as their proper taskes and excellent trades, and fall about that which <hi>Paul</hi> would have <hi>the leaſt in the Church to be employed in,</hi> if not that which helpeth ſouls, pretious ſouls to the place of torments. But ô how farre was bleſſed <hi>Paul,</hi> whoſe name is glorious, from doing ſo, who ſaid (conſidering this matter, the unſpeakable unquenchable torments of hell) <hi>Chriſt ſent me not to baptize, but to preach the Gospel.</hi> So that we ſee that in <note place="margin">1 <hi>Cor.</hi> 1.</note> compariſon of preaching, the chiefeſt means for the helping of men from endleſſe torments, burying of the dead, providing for the poore, yea Baptiſme it ſelfe (though the Ordinance of God, and a proper, a peculiar, a particular inſtitution) are not at all to be mentioned or medled with, ſave onely as this laſt is a means to keep men from hell, as our Saviour hath delivered it with his owne mouth ſaying thus, <hi>He that beleeveth and is baptized ſhall be ſaved: but he that beleeveth not ſhall be dam<g ref="char:EOLhyphen"/>ned.</hi> Now the more dreadfull damnation is, the more terrible thoſe torments are; the more amiable, the more admirable ſhould their feet be to all that have ſouls, who are anointed and appointed <hi>to preach the Goſpel</hi> on this very manner, <hi>Mark</hi> 16. They therefore who think baſely on the ſervants of God, who ſerve in the Sanctuary in the times of the Kingdome of grace for the keeping poore ſouls from hell, (the leaſt whereof (as our Saviour informs us) <hi>is greater then Iohn,</hi> yea <hi>Iohn the Baptiſt,</hi> who yet was feared of <hi>Herod</hi> the King, <hi>Matth.</hi> 11. 11. <hi>Mark</hi> 6. 20.) did neuer truely conſider how terrible hell torments are, did never meditate truly on the matter that here is taught, when it is ſaid of hell fire, that <hi>the breath of the Lord like a ſtreame of brimſtone kindleth it.</hi>
+            </p>
+            <p>And thus much of the excellency of Miniſters preaching: Now from hence alſo I gather the efficacie of their preaching. And I note this, becauſe me thinks I heare ſome of you ſay, that I make a great puther to little purpoſe; for (thinke you) no man regards it, nor will reforme any thing for it. To which
+<pb n="31" facs="tcp:53660:20"/> I anſwer, that as there was one good ground, though the three other grounds were bad grounds; ſo I have good hope that ſome will be warned, at leaſt ſome one, though not every one. And the torments of hell are ſo extreme, ſo everlaſting, that if there be one ſoule ſaved from them, it is worth all our labour, yea, the expence of the lungs and lights, yea of the lives of all the Preachers, that ever lived to be the men, the means, the inſtruments to helpe that precious poore ſoul to eſcape them. Yea, (for let us ſuppoſe the very worſt, the very utmoſt) if there were none, no not one who would be warned, yet this that <hi>liberavi animam meam,</hi> I have delivered mine owne ſoule from thoſe unſpeakeable unquenchable flames is enough to ſupport me and ſtrengthen me againſt all oppoſitions and ob<g ref="char:EOLhyphen"/>jections. Surely I being importuned to preach the firſt Ser<g ref="char:EOLhyphen"/>mon, and (beſides the importunity of Chriſtian Friends) reque<g ref="char:EOLhyphen"/>ſted by your Paſtor to preach this ſecond Sermon, ſhould have torments more then you, <hi>be</hi> (as the Lord threatned <hi>Ieremie) conſumed before you,</hi> have your bloud laid to my charge, have my ſoule guilty of your bloud, if I ſhould not ſpeak unto you what God hath revealed, and I haue received from his Spirit, as proper from the Text, and profitable for you: and am free and farre from guilt, if I doe, and diſcharge this duty, ſhall not be damned for not doing it, though not one ſhould believe and be obedient, and that freedome for that very end is worth a world of carnall contentment, with the having of which the ſoul of the Dawber may have an hell dayly within, as a fore<g ref="char:EOLhyphen"/>taſt of thoſe endleſſe torments, to which he muſt be throwne for his dawbing and dallying with that Word, at the hearing whereof our eares ſhould tingle, our hearts ſhould tremble, yea the thought, the ſerious thought of theſe unſpeakeable un<g ref="char:EOLhyphen"/>quenchable flames will make us ſay, that all Gods Miniſters are in a ſort alſo <hi>Samuels,</hi> that is, that all their words are full of force and very fruitfull, <hi>not a word falls to the ground,</hi> becauſe (like <hi>Iohn</hi> the <hi>Baptiſt)</hi> they prepare the way for the ſonne of God, their ſounding their vocall trumpets is a forerunning of that laſt Trumpet, they have warned and made ſuch way that
+<pb n="32" facs="tcp:53660:21"/> the Lord ſhall be known to be juſt when he judgeth, when he dooms and damns to eternall torments ſuch as would by no means uſe the means of their great ſalvation. There is a place in <hi>Exodus</hi> the 10. verſe, 1. wherein there is a duty enjoyned to <hi>Moſes</hi> with a ſtrange reaſon rendred to move him to the do<g ref="char:EOLhyphen"/>ing of it. <hi>Goe and ſpeake to Pharaoh</hi> (ſaith the Lord unto him) <hi>for I have hardened his heart,</hi> we would think he ſhould have ſaid, goe and ſpeak to him for I have ſoftned his heart, now ſpeak for this is a fit time to ſpeak to him; for it is like as if the Lord ſhould have ſaid to me this morning in my chamber, goe now and preach at S. <hi>Georges,</hi> for <hi>I have hardened their hearts,</hi> alas (ſhould I ſurely have ſaid if the Lord had ſaid ſo to me) to what purpoſe then ſhould I goe? what good am I like to doe, if thou haſt hardened their hearts? if thou have ſoftened their hearts, and ſo made way for my profitable preaching, I will goe and ſpeak unto them, yea will ſpend my lighte and life for them. But as the Lord there anſwered <hi>Moſes, that my Name may be magnified and glorified,</hi> Exod. 10. 2. 3. So would the Lord have anſwered me to ſuch an objection, ſuch an evil-will wanting oppoſition to his ſacred meſſage and mo<g ref="char:EOLhyphen"/>tive: I will have thee goe and preach unto them, now their hearts are hardened againſt, that thou maiſt make them with<g ref="char:EOLhyphen"/>out excuſe, and me without ſhadow or ſhew of any injuſtice, when I throw them to Tophet, to the place of torments, when I doome them, when I damne them to that dolefull dreadfull damnation. And hence it is, that as the Lord ſaid to the Pro<g ref="char:EOLhyphen"/>phet, <hi>They are a ſtubborne people, yet goe and ſpeak to them, that they may know they had Prophets among them,</hi> Ezek. 2. 1, 2, 3, 4, 5, 6, 7. So the Apoſtle gives thanks even for this (and looking on Gods glory triumpheth alſo in it) that he <hi>was to ſome a ſavour of death to death, as well as to others a ſa<g ref="char:EOLhyphen"/>vour of life to life,</hi> 2 Cor. 2. 14, 15, 16. Indeed it is true, that in humane apprehenſion that is a more grievous, not ſo graci<g ref="char:EOLhyphen"/>ous an end; but howſoever in reſpect of our intent, we cry with the Prophet and Apoſtle, <hi>We have ſpent our ſtrength in</hi> 
+               <note place="margin">Iſai. Gal.</note> 
+               <hi>vaine. I feare we have laboured in vaine,</hi> when we cannot ſtop
+<pb n="33" facs="tcp:53660:21"/> ſouls from hell and from galloping and gadding towards it; and ſay diggers and ditchers doe ſome good, but we (like un<g ref="char:EOLhyphen"/>ſavoury ſalt) are good for nothing, no not for the dunghill, ſith we ſerve for no uſe, in not keeping them from hels moſt terrible torments (and alas that is our onely employment) But yet letting alone our intent, and reſpecting this excellent event, (the clearing Gods Juſtice and juſt judgement, the removing all ſhew of crueltie in the Lords damning, his deſtroying of his creatures) we ſay our preaching is very powerfull, excee<g ref="char:EOLhyphen"/>dingly effectuall, could we ſay but as our Saviour ſaid, <hi>now they have no cloke for their ſinnes,</hi> John 15. 22. could we doe but as he did, make the wedding garment wanters <hi>Speechleſſe,</hi> Matth. 22. Did we bring but dew to water the ground which <hi>will bring forth briars and thorns,</hi> that ſo <hi>it may be near to cur<g ref="char:EOLhyphen"/>ſing, whoſe end is to be burned,</hi> Heb. 6. 6. 7. 8. did we onely fit them for the fire, <hi>which the breath of the Lord at a river of brimſtone kindles.</hi>
+            </p>
+            <p>And thus of thoſe Informations which concerne the High Prieſt and the Preachers. I now come to thoſe which more properly concerne the People; and becauſe I ſee time begin to ſlide away, I will turne thoſe informations to Exhortations, ſaying thus onely by the way, that as I will have done as neer as I can at the end of the houre, ſo whoſoever of age and diſ<g ref="char:EOLhyphen"/>cretion gets not faith by the preaching of the word, where it may be had, and will not ſtay one ſand when the glaſſe is runne, (if extremity or occaſion urge him, he may depart with Gods leave and my love) the Divel when he dyeth, will not ſtay one ſand for his ſoule, but immediately it muſt to the fire, which <hi>the breath</hi> &amp;c.</p>
+            <p>Now that which for this Text and truth, I am to enforme the people of, and exhort them to, is of three ſorts, or I am to ſpeake to three ſorts of people.</p>
+            <list>
+               <item>1. To all both within and without.</item>
+               <item>2. To ſuch alone as are without.</item>
+               <item>3. To ſuch alone as are within.</item>
+            </list>
+            <p>For the firſt, that which I would ſpeake to all, is to advertiſe,
+<pb n="34" facs="tcp:53660:22"/> adviſe, and admoniſh them to make a ſerious enquiry in their ſouls, whether they be under this dreadfull damnation, or elſe be free and farre from it, and ſo need not to quake and quiver at my medling with it, or mentioning of it. And here had I time, I would give ſome motives to make you ſerious and ſet<g ref="char:EOLhyphen"/>tled in it; one or two I cannot but name.</p>
+            <p n="1">1. The feweſt part of Profeſſours at large ſhall eſcape this lake of fire, the moſt part muſt be thrown into it; ſo ſaith our Saviour, <hi>Matth.</hi> 7. 13. 14. <hi>Matth.</hi> 22. 14. Now if one (which the Lord keep you from) ſhould tell you that moſt of your houſes are on fire, would you not leave me alone, as Chriſt and <hi>Paul</hi> were left; would you not be jealous and ſuſpicious ſaying with the Apoſtles, when the Lord told them, one of them twelve ſhould betray him; <hi>Is it my houſe? is it my houſe?</hi> Nay I think you would rather ſpeak peremptorily ſaying, it is my houſe, my houſe is burned, every one of you one by one.</p>
+            <p n="2">2. As we have but a ſhort or a ſmall time to provide our ſelves of what will preſerve us from thoſe endleſſe, eaſleſſe tor<g ref="char:EOLhyphen"/>ments (this life being a moment of great moment, upon which depends our eternall abiding) ſo many are many wayes decei<g ref="char:EOLhyphen"/>ved concerning their certificates of eſcaping everlaſting deſtru<g ref="char:EOLhyphen"/>ction, and that through want of ſerious ſearching. (O this is the height of our woe, we doe not uſe to think of hell, till at length we be in hell, and then it is too late to come out of hell) Much Copper-ware is abroad which is wholly counterfeit, nothing currant, but it lyeth us on our lives, yea on the eternall eſtate of our ſouls to ſee that ours be not copper but currant, for he to whom we muſt pay it, as he will not take a graine of copper, ſo he knows currant from copper. Out alas wee ſee Profeſſors, yea and Preachers, yea in the dayes of death and doom ſaying, <hi>We have eaten and drunke in thy preſence, and thou haſt taught in our ſtreets, you we have propheſied in thy name, and in thy name caſt out Divels;</hi> and then Chriſt profeſ<g ref="char:EOLhyphen"/>ſing ſaying, <hi>Then will I profeſſe unto you, I know you not:</hi> We had no ſecret ſacred acquaintance, no chamber, no cloſet con<g ref="char:EOLhyphen"/>verſe together, you did not ſearch your ſouls to ſee how it was
+<pb n="35" facs="tcp:53660:22"/> you, or what was to be done by you, but for forme and faſhi<g ref="char:EOLhyphen"/>on onely ſometimes met in the Congregation, <hi>Depart from me</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 7. 22. 23. <hi>Luk.</hi> 13. 25 26. 27.</note> 
+               <hi>to everlaſting fire prepared for the Devil and his Angels, yee workers of iniquity,</hi> be you preachers or be you profeſſours.</p>
+            <p>Theſe and many other motives or matters ſhould perſwade us, and prevaile with us, to be ſerious and ſolemn in the exami<g ref="char:EOLhyphen"/>nation whether we be under theſe torments yea or no, but alas the extremity it ſelfe, the eaſleſneſſe and endleſneſſe of the woes in the lake of brimſtone is enough to make us intent in it, and want of time forbids to proſecute my further intent in it.</p>
+            <p>But you will ſay, by what ſignes or ſymptomes may we diſ<g ref="char:EOLhyphen"/>cover whether by Jeſus we be delivered from the wrath to come?</p>
+            <p>To which I anſwer, that as I beleeve that you have heard that <hi>whoſoever beleeveth not ſhall be damned,</hi> Mark 16. So if I ſhould proſecute that text which ſaith, <hi>The wicked ſhall be turned to hell, and all the Nations that forget God,</hi> Pſal. 9. 17. I ſhould be thought to forget my ſelfe, by taking too tedious a taske upon me. I will therefore confine my ſelfe to one moſt precious portion of Scripture, wherein two ſorts of perſons are doomed and damned to everlaſting and extreme woe and mi<g ref="char:EOLhyphen"/>ſerie, if they abide in that ſtate and condition.</p>
+            <list>
+               <item>1. The Ignorant.</item>
+               <item>2. The Diſobedient.</item>
+            </list>
+            <p>
+               <hi>God ſhall come from heaven</hi> (ſaith <hi>Paul,</hi> 2 Theſſ. 1. 7, 8, 9.) <hi>in flaming fire, to render vengeance to them that know not God, and that obey not the Goſpell of Ieſus Chriſt, which muſt be pu<g ref="char:EOLhyphen"/>niſhed with everlaſting deſtruction from the preſence of the Lord, and from the glory of his power.</hi>
+            </p>
+            <p>Firſt therefore here is diſcovered the moſt dolefull dreadfull condition of ſuch as want the true knowledge of God, they muſt bee puniſhed with everlaſting deſtruction, and who reading this can chuſe to ſay with <hi>Perkin, Poore people I pitty you.</hi>
+            </p>
+            <p>But you will ſay, as Saint <hi>Paul</hi> brings us i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſaying, <hi>We have</hi>
+               <pb n="36" facs="tcp:53660:23"/> 
+               <hi>all knowledge,</hi> 1 Cor. 8. 1, 2, 3. and therefore cannot be dam<g ref="char:EOLhyphen"/>ned among the Idiots, among the ignorant. And I ſay with the ſame S. <hi>Paul, If any man ſay he knoweth any thing, he knoweth nothing as he ought to know.</hi>
+            </p>
+            <p>But if any of you would approve your ſelves to have ſuch knowledge as will keepe you from hell, from thoſe endleſſe eaſleſſe torments, they muſt ſee that the knowledge they boaſt of, have theſe three properties or qualities; that it be</p>
+            <list>
+               <item>1. Feeding for the matter of it.</item>
+               <item>2. Feeling for the manner of it.</item>
+               <item>3. Feebling for the effect of it.</item>
+            </list>
+            <p>For the firſt, he muſt ſee that it be feeding, ſound, ſollid, ſub<g ref="char:EOLhyphen"/>ſtantiall knowledge; ſuch knowledge as <hi>Solomon</hi> ſpeaks of, when he ſaith, <hi>a righteous mans lips feed many.</hi> And that which a greater then <hi>Solomon</hi> means when he ſaith, <hi>This is eternall life, that men know thee, the onely true God, and Ieſus Chriſt whom thou haſt ſent.</hi> It is not the knowledge of quickes and <note place="margin">
+                  <hi>John</hi> 17. 3.</note> quiddities, fooliſh, frivolous, frothy phraſes, but ſuch know<g ref="char:EOLhyphen"/>ledge as he wiſhed to Jeruſalem with weeping eyes, when he ſaid unto her, <hi>O if thou hadſt knowne in this thy day, the things that belong to thy peace;</hi> that is to ſay, ſeaſonable knowledge, <hi>in this thy day,</hi> and reaſonable knowledge, <hi>the things that be<g ref="char:EOLhyphen"/>long</hi> 
+               <note place="margin">
+                  <hi>Luke</hi> 9. 41.</note> 
+               <hi>to thy peace.</hi>
+            </p>
+            <p>For the ſecond, he muſt ſee that it be feeling knowledge, ſuch knowledge as is experimentall, and ſo more excellent knowledge then Satan hath, for Sathan can read that which is written, <hi>Rom.</hi> 8. 1. <hi>There is no damnation to them that be in Chriſt,</hi> in the third perſon; but he cannot ſay in the firſt per<g ref="char:EOLhyphen"/>ſon as it followeth, verſe 2. <hi>The Law of the Spirit of life hath freed me from the law of ſinne and death.</hi> No, that is the pro<g ref="char:EOLhyphen"/>per priviledge, the peculiar prerogative of him that muſt not be damned, that can ſay <hi>We ſpeake what we know,</hi> as he ſaid, <hi>by whom we are ſaved from the wrath to come,</hi> 1 Theſſ. 1. 10. and of whom it is alſo ſaid, in reſpect of his felt experience, for<g ref="char:EOLhyphen"/>aſmuch <hi>as he was tempted, he is able to ſuccour thoſe that are tempted,</hi> Heb. 2. 18.</p>
+            <pb n="37" facs="tcp:53660:23"/>
+            <p> For the third, that knowledge which is breathed by that <hi>Spirit by which we are ſealed to the day of Redemption</hi> from endleſſe torments is a feebling knowledge, ſuch a knowledge as makes a man humble, nothing leſſe and worſe, nothing in his owne eyes and apprehenſion. It is contrary to the common knowledge, which the Apoſtle ſaith, <hi>We all have,</hi> and where<g ref="char:EOLhyphen"/>of he ſpeaks as followeth, <hi>Knowledge puffeth up,</hi> 1 Cor. 8. It is a knowledge of God and our ſelves, how glorious and gracious he is, great in himſelfe, good to us; how grievous we are to him by our continuall ſinnes and iniquities, and what unſpeakable, unſufferable torments are prepared for us, if we live and lye in them. It makes a man cry out with <hi>Iſaiah, Woe to me I am undone, for mine eyes have ſeen the King, the Lord of hoſts,</hi> Iſai. 6. For from both theſe ſorts of knowledge, the knowledge of God and the knowledge of ourſelves, ſlows and follows exceeding humility, a faithfull, free and full caſt<g ref="char:EOLhyphen"/>ing down a man to the duſt of the earth; and a lovely; lowly laying on a mans ſoul the due deſert of being caſt down to the dungeon of hell. It makes a man ſay with ſobs and ſorrow, my breath is exceeding unſavoury, I have righteouſly, rightly merited to be thrown to that fire of hell, which <hi>the breath of the Lord,</hi> &amp;c.</p>
+            <p>Now then let us ſearch our ſouls (if we hope to eſcape hell, becauſe we thinke we have knowledge) whether it be the knowledge of fundamentall truths, or foundation tenents, and whether we feel the power of it in working faith in the Lord, the giver of it, and love to him, and to that word by which (as by an inſtrument) he conveigheth it; and whether we can ſay from the force of the ſame feeling, that the Lord is our God, who will keep us from the lake of fire, whatſoever becomes of thoſe who doe not put their truſt in him, becauſe <hi>they doe not know his name,</hi> as the Prophet <hi>David</hi> delivers it. And finally whether our faith which is thus uſhered in by knowledge, be attended by that humility, which bends and birds us to praiſe the Lord and pleaſe him in all things with ſelfe deniall, for freeing us from this Tophet, this place of terrible torments.
+<pb n="38" facs="tcp:53660:24"/> If it be ſuch knowledge (alas I know the moſt are without it, though alas and alas, they doe not know it) you muſt know this alſo that you muſt not quake when you heare of hell, and how terribly tormenting it is. But if you have no knowledge of God at all, or have onely ſuch as all have who profeſſe the paths of piety: if it be ſuch as is ſuperficiall onely, and puffe you up with pride and preſumption, then know that you have no knowledge, none worth the having, none worth the heed<g ref="char:EOLhyphen"/>ing, for of ſuch there can be no hearting. If the <hi>Breath,</hi> that bleſſed <hi>wind which bloweth where it liſteth,</hi> doth not breath on you, doe not bleſſe you before you die this naturall death, you muſt then dye eternally, goe to hell, be thrown to the fire, which <hi>the breath of the Lord like a river of brimſtone kin<g ref="char:EOLhyphen"/>dleth it.</hi>
+            </p>
+            <p>But that you may either be comforted or convinced con<g ref="char:EOLhyphen"/>cerning your ignorance, it is fit to follow you further in the matter of diſobedience. And becauſe our time is ſhort, and you would take it ill at his hands who ſhould take you of diſo<g ref="char:EOLhyphen"/>bedience, I will confine my ſpeech herein to three Characters of true Obedience. Know therefore that that obedience which will help from hell (as being indeed obedience, and not a ſhadow, not a ſhew of it) is</p>
+            <list>
+               <item>1. Glewing.</item>
+               <item>2. Groning.</item>
+               <item>3. Growing.</item>
+            </list>
+            <p>For the firſt, true obedience is glewing, it gleweth or tyeth together, as all the ends why we muſt work; Glory of God, thankfulneſſe to Chriſt, evidence for heaven, eſcaping of hell, credit, profit, each in his order: So it glueth the commande<g ref="char:EOLhyphen"/>ments themſelves, aimeth at one as well as another, though moſt at thoſe which the Lord moſt earneſtly enjoyneth, and which it finds and feels it ſelf moſt backward to goe about. <hi>He that ſaid thou ſhalt not commit Adultery,</hi> ſaith the ſonne of thunder, ſaid alſo <hi>thou ſhalt not kill.</hi> James 2. 11. Now then whoſoever ſhall kill (doth, and delights in any ſoul-killing ſinne) though he doth not commit Adulterie, (or doth any
+<pb n="39" facs="tcp:53660:24"/> other evil act or action) as fire as he is <hi>a tranſgreſſour of the Law</hi> whiles he lives, ſo ſure ſhall he when he dieth (if he doe not repent before he dyeth) be thrown to thoſe fiery flames which <hi>the broath of the Lord, &amp;c.</hi>
+            </p>
+            <p>2. That obedience which ſecureth from death and damna<g ref="char:EOLhyphen"/>tion is a groning obedience, that is to ſay, they that have it, doe not onely doe their duties hereafter, but alſo take a purge or potion of bitter ſighings, ſobs and ſorrows, for omitting former duties, neglected or contemned, and doing things con<g ref="char:EOLhyphen"/>trary to the commandement of the living Creatour, loving Re<g ref="char:EOLhyphen"/>deemer. O this, this is the fount, the very foundation of all Apoſtaſie, and ſo at laſt of all tortures and torments. Men and women ſay to their ſinnes, as thoſe men ſaid to our Saviour, when they beſought him <hi>to depart their coaſts,</hi> becauſe by his coming they loſt their ſwine (as they ſuppoſed). But they doe not receive a potion for their formerly drunk in poyſon: ſome for carnall love to their Landlords leave ſome ſinnes, though they doe not loath them; ſome for feare of their friends and famillars doe ſuch duties as they doe not delight in; many for many ends doe many things which may not be blamed, but are commanded, yea and commanded unto their practiſe, by patterns and promiſes as well as precepts, who were never bro<g ref="char:EOLhyphen"/>ken in heart, for breaking thoſe ſacred ſaving precepts, and breaking over thoſe patterns and thoſe promiſes. Theſe want<g ref="char:EOLhyphen"/>ing that <hi>depth of earth</hi> can never got to heaven, but muſt to hell, if they doe not hereafter lament their not lamenting, be<g ref="char:EOLhyphen"/>fore they began to be knowne to be of that number<g ref="char:punc">▪</g> which muſt eſcape the fiery flames, which <hi>the breath of the Lord like a river of brimſtone kindles.</hi>
+            </p>
+            <p>For the third; That obedience which goes for currant in the court of heaven, and ſaith to ſuch as profeſſe it, that they cannot be caſt to tormenting Tophet is growing, it daily en<g ref="char:EOLhyphen"/>creaſeth, groweth duly bigger and better, more and more ſavory, ſollid and ſetting downe all objections which ſtrive to ſtop it in its holy paths of purity, in the way in which he walk<g ref="char:EOLhyphen"/>eth, in whom it is in life and power, in truth and ſpirit. But
+<pb n="40" facs="tcp:53660:25"/> alas mens growings blinder, baſer, back warder in all the things which helps towards heaven and would heave us higher had we hearts to them, proves plainly to ſuch as ſee it, that moſt men are made of another kind of mould then they were com<g ref="char:EOLhyphen"/>poſed of, in reſpect of Chriſtianity, then they were in thoſe pri<g ref="char:EOLhyphen"/>mative pureſt holy dayes, when Chriſtians were ſo glewed to<g ref="char:EOLhyphen"/>gether, were ſo full of growing and groning.</p>
+            <p>Now ſearch (I beſeech you) your ſoules, yee men and women, who would not be damnd, ſee whether your ſeeming obedience glew you to Chriſtians as well as commandments, have opened your hearts with ſuch dew-diſtilling ſorrow for ſin ihat (as plants refreſhed with raine) your ſoules grow more enamored with thoſe paths which are pleaſant as well as pure leading from hel to life everlaſting. Of a truth (that I may grow nearer towards concluſion) as they who are ſo qualified may not onely qualifie their feares concieved at the hearing of hell crying weepe and wail without end, at the thoughts of To<g ref="char:EOLhyphen"/>phet whoſe torments haue no end, but alſo make them truly merry at the very heart, becauſe they are free and far from the place and caſe, in which Gods fury for ever kindles the fiery flames. So they who cull and chuſe, in their doing duties take on them a profeſſion without taking on or making con<g ref="char:EOLhyphen"/>feſſion of their falſe, fooliſh, filthy wayes or rather wandrings they that ſtand at a ſtay continually never growing or groning heavenwards, but grow weary of preciſe and punctuall per<g ref="char:EOLhyphen"/>formances, religious rules, doctrines, diſciplines, are traviling towards <hi>Tophet,</hi> and will run (unleſſe they return) into that fire which my text treats of, and which <hi>the breath of the Lord like a river of brimſtone kindles.</hi>
+            </p>
+            <p>And this be ſpoken to all in generall: ſearch your ſelues, yee ſearch your ſelves, O ye who would not be damned for ever, before the decree come forth, before ye be as chaffe; before the <hi>fierceneſſe of the Lord come upon you, before the day of the Lords wrath come upon you.</hi> Zeph. 2. 2. I am to ſpeak to thoſe (be<g ref="char:EOLhyphen"/>ing commonly the greateſt number) who are ignorant or diſ<g ref="char:EOLhyphen"/>obedient, in ſuch ſort as is here diſcovered and ſo (ſhould they
+<pb n="41" facs="tcp:53660:25"/> dye in that caſe) would be ſhortly in a dolefull dreadfull caſe, howling in hell, crying out that ever they were borne, frying in the fire, which <hi>The breath of the Lord like a river of brimſtone kindles.</hi>
+            </p>
+            <p>Now to theſe our bleſſed Saviour cryes again and againe, <hi>And if thy hand offend thee, out it off: it is better for thee to en<g ref="char:EOLhyphen"/>ter into life maimed, then having two hands, to goe into hell, into the fire that never ſhall be quenched; Where their worme dieth not, and the fire is not quenched.</hi>
+            </p>
+            <p>
+               <hi>And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, then having two feet to be caſt into hell, into the fire that never ſhall be quenched. Where their worme dieth not, and the fire is not quenched.</hi>
+            </p>
+            <p>
+               <hi>And if thy eye offend thee, plucke it out: is it better for thee to enter into the Kingdome of God with one eye, then having two eyes to be caſt into hell fire. Where their worme dieth not, and the fire is not quenched.</hi>
+            </p>
+            <p>Mark that he would have the hand and foot off, and the eye out, but heres not a word of the eare off, men and women muſt have their ears on ſtill, as a ſpeciall meanes to keepe them from the fire, there is no cropping ears in heavens court, but they who will not part with their hair, how ſhould wee think they will part with their hands, yea it is to be greatly feared, that ſith theſe will come to our Churches, and carry Bibles, who will by no meanes leave their luſts, as near as their hands, as deare as their feet, I ſay it is to be feared, <hi>that they will be bound hand and feet, and be throwne to utter darkeneſſe, where is weeping and gnaſhing of teeth,</hi> and then they will become <hi>ſpeechleſſe,</hi> having nothing to ſay for themſelves, when their <hi>feet</hi> are bound which brought them to the temple, when their <hi>hands</hi> are bound which handled the Bible; when their <hi>hands</hi> are bound and then no fighting, when their <hi>feet</hi> are bound, and then no flying. <hi>Mat.</hi> 22. 11. 12. 13.</p>
+            <p>And I call upon you as loud as I can, to doe that which my maſter means, that is to ſay, to avoid and abhor any thing, every thing, never ſo deare to you, never ſo neare to you,
+<pb n="42" facs="tcp:53660:26"/> (unlawfull profits, pomps or pleaſures) which any wayes hurt or hinder from ſeeking the way of ſaluation, that ſo you may eſcape thoſe everlaſting flames of fire: yea I beg of you, and beſeech you, to doe any thing, every thing, all things, which will doe any thing in that matter of greateſt moment towards the eſcaping of that Tophet, that place of torments. O put to all you are, and all you haue, all the powers of your ſouls and parts of your bodies, imploy, improve all your minutes as well as your mites, in ſaving your ſelves from this froward generation, and ſo from thoſe unſpeakeable, unconceiveable, unmatchable torments. Doe as <hi>Solomon</hi> ſheweth, that you ſhould doe, as wee ſhewed at the begining. <hi>The way of life is above to the wiſe, that he may eſcape hel below,</hi> Prov. 15. 24. As if the ſpirit had ſaid, if any man or thing ſhall ariſe in your hearts to hold from heaven, ſhew to your ſouls the burning flames which are below in the lake of fire and brimſtone, and you will quickly ſhew your ſelves wiſe men, you will eſteeme the word and the preaching (a ſpeciall means to make us able to ſay in truth we ſhall not be damnd) above objections, above oppoſitions, above all that ſtops or ſtaies us from ſeeking, ſtri<g ref="char:EOLhyphen"/>ving, ſtruggling for life.</p>
+            <p>You will happily ſay, what muſt wee doe, that we may eſcape that place of torments.</p>
+            <p>To the which I anſwer, that though time paſſeth ſwiftly, I will ſhew you,</p>
+            <list>
+               <item>1. What the word.</item>
+               <item>2. What the world would would have you doe in the pre<g ref="char:EOLhyphen"/>ſent caſe.</item>
+            </list>
+            <p>For the firſt. The word (in a few words) bids us doe theſe three things, as wee have them in three examples. Or theſe three Bs.</p>
+            <list>
+               <item>1. Beleeve.</item>
+               <item>2. Beware.</item>
+               <item>3. Bewaile.</item>
+            </list>
+            <p>Firſt carry the honey of this inſtruction and exhortation. Firſt, the word bids us <hi>Beleeve,</hi> thus S. Paul ſaid to the Jay<g ref="char:EOLhyphen"/>lor,
+<pb n="43" facs="tcp:53660:26"/> who put him and his fellow in the <hi>inner priſon,</hi> when he <note place="margin">
+                  <hi>Acts</hi> 16.</note> had a commiſſion to put them in priſon; that Jaylor after his putting them in the inward priſon, was himſelfe put in the in<g ref="char:EOLhyphen"/>moſt priſon, his very ſoul was ſet in the ſtocks, he was afraid of the flames of hell, and cryed out in the anguiſh thereof, even to thoſe whom he had miſuſed: <hi>Sirs, what muſt I doe to bee ſaved?</hi> O how, how ſhall I doe? I fear the terrible torments of hell, what courſe muſt I take to eſcape them? To this <hi>Paul</hi> anſwers, as I doe to thoſe of you (if there are any here among you in the like caſe) <hi>Beleeve in the Lord Ieſus, and then ſhall be ſaved</hi> from that lake of fire and brimſtone, which otherwiſe will deſtroy and devoure thee, ſinke thee, ſwallow thee in for ever. And I from this very ground call upon you to cleave the clouds, to work wonders, to reach the right hand of that Ma<g ref="char:EOLhyphen"/>jeſty on high (paſſing by all the Apoſtles and Angels) and there to ſingle out him, who is all in all with God, to become all in all to us; to apprehend him for your owne Saviour, to apply him to your owne ſouls, to take downe his perſon, his paſſion, his promiſes, to make him your owne by the lively ſaith of Gods Elect. And I beſeech you, O ye who have ſoules, and have a Saviour, who ſhed his blood to redeeme thoſe precious ſouls, doe not deſpair for any of your ſinnes, be they never ſo many millions, be they never ſuch mighty mountains. I can<g ref="char:EOLhyphen"/>not ſtand to ſhew you the order which God uſeth in working faith in you. How firſt he tells you, that it is poſſible, and then probable that God will pardon you after fears falling in in the middeſt; and after a while will ſay to you ſweedy, <hi>your faith hath ſaved you, your ſins are forgiven you.</hi> But this I ſay to you, that there is ſuch infinite mercy in God, and ſuch infinite merits in Chriſt, that if you can but beleeve in him (and the Lord looke upon you, to make you able to ſay hold on him) you ſhall ſurely be ſaved from hell, you ſhall not be over whelmed with thoſe extreme everlaſting torments, ſhall not be caſt to the fie<g ref="char:EOLhyphen"/>ry flames, which <hi>the breath of the Lord like a river of brim<g ref="char:EOLhyphen"/>ſtone kindles.</hi>
+            </p>
+            <p>Secondly, (for there is no time to tell you, how you muſt
+<pb n="44" facs="tcp:53660:27"/> attaine to that <hi>Beleeving,</hi> namely by <hi>hearing the word of God, which is able to ſave your ſouls)</hi> I ſay ſecondly, if you would <note place="margin">
+                  <hi>Rom.</hi> 10. <hi>James</hi> 1.</note> eſcape the everlaſting terrible torments, you muſt <hi>Beware</hi> that you walk in the way which the Saints and the Saviour trod in. So ſaith <hi>Iohn</hi> when he ſaw the <hi>Phariſees</hi> ſeek to <hi>avoid the wrath to come. Bring forth fruits</hi> (ſaith he unto them, when their Conſciences cryed againſt them, and ſet the torments of hell <note place="margin">
+                  <hi>Matth</hi> 3.</note> before them) <hi>Bring forth fruits fit for amendment,</hi> ſaith he, <hi>and begin not to ſay in your ſelves, we have Abraham to our fa<g ref="char:EOLhyphen"/>ther.</hi> And doe not you I beſeech you, dream that you can ſtop the cry of hell in your Conſciences, by any fooliſh frivolous fig<g ref="char:EOLhyphen"/>leaves, or if you could ſo curb and cruſh them, that yet you are able to avoid that brimſtone by pleading Pedegrees, pretend<g ref="char:EOLhyphen"/>ing prerogatives. No, there is no way but one with you, if ye walk not the way of fruitfulneſſe, be not carefull, conſcionable, circumſpect in all Converſation, in all acts of Chriſtianity; Though it be Chriſt, even Chriſt alone, who hath freed us from hell, and fitted us for heaven, and for his ſake ſhall all that be choſen, be kept from thoſe ever-burning flames; yet it is they, they alone, none but they, who are <hi>fruitfull</hi> as well as faithfull ſhall eſcape the lake of brimſtone, all the reſt, all that walk not warily, worthily muſt be extremely and eternally hell-tormen<g ref="char:EOLhyphen"/>ted. That is the way, and the means to eſcape, thoſe are the perſons, who muſt be preſerved from that moſt terrible place of torments; In that, and after that men muſt fly from the wrath to come. And therefore you muſt be ſuch, muſt be ſo fruitfull, muſt <hi>bring forth fruits</hi> fit for a Chriſtian calling, if you would not be thrown to Tophet, to that extremely tormenting fire of hell, which <hi>the breath of the Lord like a river of brim<g ref="char:EOLhyphen"/>ſtone kindles.</hi>
+            </p>
+            <p>Thirdly, whoſoever of you would not be damned for ever and ever muſt look back with godly ſorrow (like thoſe foure beaſts in that fourth Chapter of <hi>Iohns</hi> Revelation, who had <hi>Eyes behind</hi> as well <hi>as before)</hi> on his former fooliſh, falſe beha<g ref="char:EOLhyphen"/>viour; So ſaith <hi>Peter</hi> to thoſe <hi>three thouſand,</hi> who when they had been <hi>pricked in their hearts</hi> (frighted with feare of thoſe
+<pb n="45" facs="tcp:53660:27"/> fiery flames of hell, feeling a kind of foretaſt of it in their very inwards) cryed out, <hi>what ſhall we doe,</hi> with ſighing ſoule and <note place="margin">
+                  <hi>Acts</hi> 2. 37. 38.</note> ſorrowfull ſpirits. <hi>Repent,</hi> ſaith he, be ye truely touched; ſin<g ref="char:EOLhyphen"/>cerely, ſweetly terrified, troubled, that ye were ſo proud and preſumptuous, that you dueſt provoke the mighty Jehovah, who is able to tumble you down to hell to the place of tor<g ref="char:EOLhyphen"/>ments. Make your hearts bleed that your ſinnes made him bleed; who ſhed it to keep you from hells eternall flames. And ſurely forgiveneſſe of ſinnes and faith in Chriſt to conceive it, and receive it, without which to eſcaping of hell nothing at all, but being extreamly, eternally damned, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> must be attained with any fruitfull force and feeling, till a Converts ſoul become ſuch an one as will ſuck it in, and that it cannot be capable of, till it be ſoked in briniſh tears, or bitterer terrours, till is bee afraid of Tophet, that ſo fearing it, it might not feele that un<g ref="char:EOLhyphen"/>quenchable fire of hell which <hi>the breath of the Lord as a river of brimſtone kindles.</hi>
+            </p>
+            <p>And theſe be the three Bs which have the honey: Theſe be the things which the ſacred Scripture: commends to ſuch as have in their hearts wormwood and gall for feare of hells ex<g ref="char:EOLhyphen"/>treme eternalls, when it counſelleth them by comforting, and comforteth them by counſelling.</p>
+            <p>Now what the World would doe, and that both lawfully and laudably, if a noyſe of fire ſhould fright them, we all know by much experience.</p>
+            <p>Suppoſe (which the Lord keepe from you) that there ſhould be a noiſe of fire in your Towne, what courſe would ye take for the quenching of it. I know generally and nega<g ref="char:EOLhyphen"/>tively what you would doe, that is to ſay, what you would not doe, for you world certainly hear mee no longer, but would leave mee alone (as they did Chriſt and his choſen veſ<g ref="char:EOLhyphen"/>ſel <hi>Paul,</hi> and yet you ſhould not, for I would goe along with you remembring what is written: <hi>I will have mercie and not ſacrifice,</hi> Hoſea 6. 6. But what would you doe, when you came to it, and ſought to quench it, I ſuppoſe you would get three things.</p>
+            <list>
+               <pb n="46" facs="tcp:53660:28"/>
+               <item>1. Company.</item>
+               <item>2. A Ladder.</item>
+               <item>3. Water.</item>
+            </list>
+            <p>For the firſt you would get Company, you would call upon one the other, crying, Fire, fire, fire, fire, ſave us from it, help to quench it; And O that you would do ſo directly, for the ſa<g ref="char:EOLhyphen"/>ving of your ſoules, for the preſerving of you from thoſe tor<g ref="char:EOLhyphen"/>ments which are extreme and endure for ever. O that you would get together, that you would goe one to another; that you aske one the other the queſtion, How doth your ſoule? and, How doth your ſoule? O would you ſay to each other thus; What ſay you neighbour to that which we heard to day? Is it true, that there is an hell, and that there are ſuch torments in it? that they are ſo terrible, ſo everlaſting, that they never ſhall end, but abide for evermore? O what, what ſhall we doe? what will you doe? what ſhall I do? I feare I ſhall even be damned in hell, even in hell, and that in ſuch extremity, and that for all eternity. But me thinkes I heare ſome of you ſay to me: I can finde in my heart to goe to his houſe, but not to this houſe, he is a Puritan; but I tell you, if there were a fire, ſuch a fire in your towne or houſes, there would no word at all of Puritan, but all the noiſe would bee Neighbour, neighbour, fire, fire, helpe neighbour, help. And O that the thought of this fire which <hi>the breath of the Lord for ever kindleth,</hi> would take away all hoſtilitle, all carnall crooked conceit of enmity; and make you joyn hearts, heads, and hands, for the quenching of it ſo farre as concernes your eſcaping, for the preſerving of you from it (as <hi>Saul</hi> was forced to depart from <hi>David,</hi> when he was neare him at the mouth of the Cave, to the end he might ſave his kingdome which the Philiſtines then had invaded.) O that you would walke and talk together, like yet living creatures, and now loving neigh<g ref="char:EOLhyphen"/>bours, how you might eſcape hell, the everlaſting lake of fire and brimſtone; I aſſure you it would much availe you to<g ref="char:EOLhyphen"/>wards your freedome from the fiery flames; which <hi>The breath of the Lord like a ſtreame of brimstone doth kindle it.</hi>
+            </p>
+            <pb n="47" facs="tcp:53660:28"/>
+            <p> Secondly, if there were fire in your Towne, and houſes (which the Lord evermore keep ſame from you) you would immediately ſeeke a Ladder: And, O that (if any among you be ſtuck to the heart and ſtung with this Sermon at the hea<g ref="char:EOLhyphen"/>ring of theſe unſpeakable, unquenchable flames of hell.) O that you would goe to your Miniſter, (Miniſters are Ladders, <hi>Ia<g ref="char:EOLhyphen"/>cobs</hi> Ladders reaching from earth to the height of heaven) and ſay to him, when your ſoules are ſinking; Sir, be good to us, helpe us, beale us, heave us up from the ſinks of ſorrow; we ſee death ready to ſeize on us, hell ready to ſwallow us utterly. Thus did that Jaylor, thoſe Phariſies, thoſe Converts before mentioned, they roated and ranne to their Preachers, crying, <note place="margin">
+                  <hi>Acts</hi> 16. <hi>Mat.</hi> 3. <hi>Acts</hi> 2.</note> 
+               <hi>What ſhall we doe to be ſaved?</hi> But O alas we the Miniſters of the Goſpel grow greedy of filthy lucre, waxer wanton, in ſpen<g ref="char:EOLhyphen"/>ding our time upon trifling novelties, niceties, becauſe we want worke or purer employment, are not at all enquired after con<g ref="char:EOLhyphen"/>cerning the ſores of your ſoules, the bellowings and breathings of them, the blemiſhes and breathes in them; where is there (almoſt) a man among millions, who makes the mone for a man of God, <hi>one of a thouſand,</hi> to whom he may cry for coun<g ref="char:EOLhyphen"/>ſell when his Conſcience is almoſt confounded? But you O people, who have pretious ſoules in you, and which ſoules muſt ſurely be turned to Tophet, if you be not turned topſie<g ref="char:EOLhyphen"/>turvie from blindneſſe and badneſſe to true Religion and holy Righteouſneſſe, doe you that which the feweſt number doe (they are many and often mighty ones, which walke in the way which drawes to deſtruction) get you Ladders, and get upon them, make your Miniſters minde their ſtudies, when they heare you pouring out your hearts and poſing them, and putting them often times to their prayers, for more wiſedome to reſolve your doubtaind difficulties. But chiefly (ah doe it as you doe not deſire to be damned) goe ſpeedily to thoſe Miniſters by whoſe work, men muſt be ſaved, when you heare of hels extremitie, and are afraid that you ſhall fall in it. They will not with the Watchmen ſmite you, they will reare you, reſtore you, recover you (they have more leaſure and more
+<pb n="48" facs="tcp:53660:29"/> learning then I have, more time to doe the thing which will ſtop your ſoules from ſinking, and ſtirre them from deſpaire as well as ſecuritie) when Satan ſets before you your due deſert of eternall damnation. Above all I deſire and require you, that if any thing hath been ſpoken in my two Sermons, which puts any of you to your plunges, and puzzles your ſoules by ſaying, you muſt be damned, that you enquire of ſome Em<g ref="char:EOLhyphen"/>baſſadour of Jeſus Chriſt, whether it were true as well as ter<g ref="char:EOLhyphen"/>rible, holy Doctrine as well as threatned deepe damnation. And I for my part, if any of my Brethren being a word for it, will be ready to recall and recant it, and ſhew you a ſofter way (if there be any ſuch in the bleſſed Bible) to eſcape this flaming fire of Tophet, which <hi>The breath of the Lord like a ſtreame of brimſtone doth kindle it.</hi>
+            </p>
+            <p>The third thing that you would doe, would be to cry, <hi>Water, water,</hi> ſhould the noiſe of <hi>Fire, fire,</hi> be heard among you (which the Lord to his good pleaſure keep far from you.) And O that this cry of <hi>Fire, Fire,</hi> this extremely tormenting fire, this everlaſtingly tormenting fire, would cauſe you to cry for a double <hi>Water,</hi> and double your cry for it, with ſingle hearts and earneſt ſpirits. O that you would cry for the water of pardon for forgiveneſſe of ſinnes, for the waſhing of your ſoules, through his bloud, who came by <hi>Water and bloud, not by water only, but by water and bloud,</hi> out of whoſe more then precious ſide came <hi>Water</hi> and <hi>bloud</hi> for the ſoules <note place="margin">1 <hi>Joh.</hi> 5. 6.</note> even of Publicans &amp; moſt prophane ones, of vicious, villanous men or miſcreants. O that the feare of this quenchleſſe fire would make you cry, <hi>Lord have mercy upon us,</hi> (not as many try it, without any ſence of miſerie, and ſo without capability of mercy, toſſing and tumbling the Name of the Lord, as I would be loath to have my name toſſed, crying, <hi>Lord have mercy upon us. Chriſt have mercy upon us. Lord have mercy upon us,</hi> in ſuch haſte and ſhow of heat, as if they meant to ſell their <hi>Lords have mercy upon us</hi> for money, and would get as many of them into their hands as they could to ſell them here<g ref="char:EOLhyphen"/>after; (Whereas, if they thought of hell, of its extreme and
+<pb n="49" facs="tcp:53660:29"/> eternall torments, it would make them with deliberation, yea with the utmoſt of their devotion to cry, <hi>Lord have mercy upon us,</hi> we are elſe undone for ever.) O, I ſay, that the feare of this fire would make you cry, <hi>Chriſt have mercy upon us,</hi> and to continue ſo crying, till your <hi>hearts he ſprinkled from an evill conſcience, and your bodies waſhed with pure water.</hi> And I <note place="margin">
+                  <hi>Heb.</hi> 10. 22</note> beſeech you, as you would not ſuffer theſe unſpeakeable, un<g ref="char:EOLhyphen"/>quenchable flames, doe as our Saviour bids and binds you, that is to ſay, <hi>Aske, Seeke,</hi> and <hi>Knock</hi> for that holy <hi>water,</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 7. 7.</note> and the <hi>Spirit,</hi> without which he telleth and teacheth us, that there is no comming to the glorious <hi>Kingdome,</hi> and ſo by conſequence, no eſcaping of hell. <hi>Aske</hi> earneſtly, and if no anſwer ſeeme to come, <hi>Seeke</hi> more earneſtly, and if you heare no anſwer yet, <hi>Knock</hi> moſt earneſtly, for the water of the Spirit to regenerate, renew, and reſtore you from the death of ſinne and the danger of death, eternall death and dreadfull damnation. Yea I would <hi>Knock</hi> downe the gates of heaven, (why ſhould not I doe a thing impoſſible, to eſcape the lake of fire and brimſtone, at well as the Lord bids us doe a thing impoſſible to be free from eternall damnation, ſaying, <hi>Make</hi> 
+               <note place="margin">Eze. 18. 31.</note> 
+               <hi>you a new heart, and a new ſpirit, for why will ye die?</hi> though he knoweth that we cannot move an hand towards making new hearts, &amp; therfore promiſeth by the ſame Prophet, yea and that <note place="margin">Eze. 11. 19 and 36. 26.</note> once and again, that he will <hi>give us new hearts and new ſpirits)</hi> rather then feele the fury of God in the fierceneſſe and fulneſſe of it in that Tophet, that place of torments, that hell of hels, which hath ſuch fire in it, that <hi>The breath of the Lord like a ſtreame of brimſtone doth kindle it.</hi>
+            </p>
+            <p>And thus much be ſpoken to ſuch as have hitherto abode in darkeneſſe, by not thinking on the place of torments (too much conſidering the time, not halfe enough in regard of the thing,) you may now depart at your pleaſure; I having ſhewed you the caſe you are in, and the courſe you muſt take to come out of it. I have onely two words to ſpeak now to you<g ref="char:punc">▪</g> who have ſuch knowledge and ſuch obedience wrought with in you either before this day it ſome good and Chriſtian perfection,
+<pb n="50" facs="tcp:53660:30"/> or on this day in the beginnings of it, in the ſeeds or deſires of it, or ſound preparations to it.</p>
+            <p>Now to you who are ſoundly wrought on, and ſo are freed from thoſe extreme everlaſting torments, I am to perſwade with you:</p>
+            <list>
+               <item>1. To praiſe the Lord for your owne mercy.</item>
+               <item>2. To pitty others in their miſery.</item>
+            </list>
+            <p>For the firſt of theſe as oft as you thinke on the extremitie, and eternitie of the torments of hell, it muſt make you one by one cry with the ſweet Singer of Iſrael, <hi>Pſal.</hi> 86. 12. 13. <hi>I will praiſe thee, O Lord my God, with all my heart: and I will glorifie thy Name for evermore. For great is thy mercy towards me: and thou haſt delivered my ſoule from the loweſt hell.</hi>
+            </p>
+            <p>And to provoke you to this duty of praiſe, which when we come to heaven, and ſhall ſee that we cannot to hell, we ſhall continually be employed in, and which we are ſo more back<g ref="char:EOLhyphen"/>ward to bring our hearts to, whiles we are in earth: let us briefly think on theſe things:</p>
+            <p n="1">1. Firſt, if our Graces be well grounded, ſtrongthned and ſtabliſhed, we ſhall be ſure, without peradventures, that wee ſhall not be thrown to the lake of brimſtone, <hi>Revel.</hi> 21. 7. 8.</p>
+            <p n="2">2. If we had been dead only, and revived, recovered to life again, yea if we had been but deadly ſick, and had been reſto<g ref="char:EOLhyphen"/>red to health again, we ſhould ſay with good <hi>Hezekiah, The li<g ref="char:EOLhyphen"/>ving,</hi> 
+               <note place="margin">
+                  <hi>Iſai.</hi> 38. 19.</note> 
+               <hi>the living, they ſhall praiſe thee:</hi> How much more are we bound to doe it, at the freeing our ſouls from the place of torments.</p>
+            <p n="3">3. Conſider how many millions, nobler, richer, learneder then we are, are left to themſelves, and their ſoules to Satan, to be extremely eternally damned; And God hath made choiſe of us filly ſimple wormes, who were firſt <hi>Elected,</hi> and then <hi>Selected,</hi> and after <hi>Neglected</hi> of all meere morall men, and often in our owne ſoules <hi>Dejected</hi> in our owne apprehenſions, 1 <hi>Cor.</hi> 1. 26. 27.</p>
+            <p n="4">4. Conſider how many times, how many thouſand times, the God of heaven did call and cry to us, and yet we refuſed,
+<pb n="51" facs="tcp:53660:30"/> and often reſiſted: He ſent not only his Son, and after his Son his Word to reveale his Sonne, but alſo his Spirit from Sab<g ref="char:EOLhyphen"/>bath to Sabbath, from Sermon to Sermon, and ſtill we with<g ref="char:EOLhyphen"/>ſtood our owne eſcape, our owne deliverance, our own free<g ref="char:EOLhyphen"/>dome from thoſe flames, which have none end, or eaſe at all in them.</p>
+            <p n="5">5. He fetched us from it, called, culled, converted our ſoules from it, when we were loath to come out of hell, loatheſt of all to come out of the way to it, loather (it may be ſome of us) then ever in all our lives before. O the Lord dealt with us, as he did in fetching <hi>Lot</hi> from Sodome, whiles we lingred, hee laid hands on us, the Lord being exceedingly mercifull to us, ſaying, Fly for your lives, <hi>Eſcape towards the mountaine, lest ye be conſumed</hi> in the lake of fire and brimſtone. And the cauſe why we ſo contemned our owne mercy in that our mi<g ref="char:EOLhyphen"/>ſery was our ignorance, our not knowing what caſe we were in, our thinking our ſelves ſafe, and in the way to the King<g ref="char:EOLhyphen"/>dome of Heaven, when alas we were almoſt in hell, in the ve<g ref="char:EOLhyphen"/>ry path, the very porch of it.</p>
+            <p n="6">6. And laſtly, that as he ſent when we never ſought pardon, ſo he hath not only knockt off the bolts and bonds, not onely freed us from hels moſt fierce and fiery flames, but alſo fitted us in ſome meaſure for the wearing of Royall Crownes of Glory: So that now we can think on hell without horrour, without aſtoniſhment becauſe we can ſay with <hi>Paul</hi> to his Theſſalonians, <hi>God hath not appointed us to wrath but to ab<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Salvation by Ieſus Chriſt,</hi> 1 Theſſ. 5. 9.</p>
+            <p>The thought of theſe things ſhould fill us full of joy and comfort, and make us breathe out holy praiſes, and breake forth into bleſſing the bleſſed Majeſty, crying with <hi>Paul, Bleſſed be the God and Father of our Lord Ieſus Chriſt, who hath bleſſed us with all ſpirituall bleſſings in heavenly places in</hi> 
+               <note place="margin">
+                  <hi>Epheſ.</hi> 1. 3.</note> 
+               <hi>Christ: According as he hath choſen us, before the foundation of the world;</hi> when he rejected millions of millions to be ex<g ref="char:EOLhyphen"/>tremely eternally damned: And with <hi>Peter, Bleſſed be the God and Father of our Lord Ieſus Chriſt, which according to his</hi>
+               <pb n="52" facs="tcp:53660:31"/> 
+               <hi>abundant mercy,</hi> in freeing us from thoſe torments, which know neither end nor eaſe, <hi>hath begotten us again to a lively hope of an inheritance incorruptible, and undefiled, and that fa<g ref="char:EOLhyphen"/>deth not away, reſerved in heaven for us,</hi> 1 Pet. 1. 3. 4. And wherein we ſhall ſhine as the Sunne in the Kingdome of our Father, when all the wicked of the world ſhall be caſt into <note place="margin">
+                  <hi>Matth.</hi> 13. 42. 43.</note> that furnace of fire, which <hi>The breath of the Lord like a ſtreame of brimſtone doth kindle it.</hi>
+            </p>
+            <p>And thus much be ſpoken to you, concerning your owne mercie.</p>
+            <p>Now a word of Information concerning others miſery. The Prophet <hi>Ieremie</hi> in one verſe, <hi>Ier.</hi> 20. 13. breaketh forth into this holy pang, this heavenly paſſage, <hi>Sing unto the Lord, praiſe ye the Lord;</hi> and in the very next verſe unto it, he brea<g ref="char:EOLhyphen"/>theth forth this dolefull diſmall out-cry, <hi>Curſed be the day wherein I was born.</hi> The Apoſtle <hi>Paul</hi> (peradventure more proper and pat to our purpoſe) when he had ſaid, <hi>I am per<g ref="char:EOLhyphen"/>ſwaded, that neither death, nor life, nor Angels, nor principali<g ref="char:EOLhyphen"/>ties, nor powers, nor things preſent, nor things to come, nor height,</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 8. 38. 39.</note> 
+               <hi>nor depth, nor any other creature, ſhall ſeparate us from the love of God, which is in Chriſt Ieſus our Lord:</hi> (as looking on his owne moſt bleſſed condition, being engrafted into the bleſſed body of Chriſt, and endued with the bleſſed Spirit of Chriſt, and ſo free from condemnation, as it is in the 1. verſe,) looking on his former familiars and friends, and ſeeing them ſubject to death and damnation, hath theſe words in the very next verſe, <hi>Rom.</hi> 9. 1. 2. 3. <hi>I ſay the truth in Chriſt, I lie not, my conſcience alſo bearing me witneſſe in the holy Ghoſt, That I have great heavineſſe, and continuall ſorrow in my heart, For, I could wiſh that my ſelfe were accurſed from Chriſt, for my brethren my kinſmen according to the fleſh:</hi> And ſurely ſith the tor<g ref="char:EOLhyphen"/>ments of hell are ſo unconceiveable, ſo unceſſable, wee ſhould after we have rejoyced and praiſed God for our owne delive<g ref="char:EOLhyphen"/>rance; grone and grieve for our carnall friends caſe, and more then curſed condition. But as that <hi>Paul</hi> when he had ſighed and ſobbed, with remembrance of, and reſpect to the terrible
+<pb n="53" facs="tcp:53660:31"/> torments that they muſt be throwne to, if they abode in their wicked wilfulneſſe, addeth in the 1. verſe of the next Chapter, his <hi>Prayer</hi> to that his <hi>Pitty,</hi> ſaying, <hi>Brethren, my hearts deſire</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 10. 1.</note> 
+               <hi>and prayer to God for Iſrael is, that they might be ſaved.</hi> So muſt we not onely weepe and waile, for feare of our friends damnation, but alſo doe the beſt we can, uſe our true and ut<g ref="char:EOLhyphen"/>moſt endevour, that ſuch ſinners may bee converted; and ſo eſcape everlaſting torments. And though I could ſhew (did not time take me off) what ſpeciall courſe fathers and mothers muſt take to help their children from hell, and ſet it downe in divers particulars, yet I will onely ſhew in groſſe or generall termes what we are to doe (even you people, as well as wee Preachers,) for all that dwell about us, and to whom we have any acceſſe, toward their eſcaping that fire, which <hi>The breath of the Lordlike a river of brimſtone kindles.</hi>
+            </p>
+            <p>And to paſſe by our holy walking (with which wee may draw them to like that Word, which is able to ſave our ſoule <note place="margin">
+                  <hi>Jam.</hi> 1. 21.</note> from that fearefull wrath to come:) And not to preſſe you to preſſe hardeſt by Exhortation, when you receive moſt kind<g ref="char:EOLhyphen"/>neſſe from them, <hi>Luke</hi> 10. <hi>Luke</hi> 11. <hi>Luke</hi> 14. (O who would not endure any thing to keepe any one from wanting water, who will not ſee us here want drinke, but will provide before we petition) nor to call on them to number their dayes (which will make them to become wiſe, if anything will, and not ruſh on their owne deep deſtruction, for dayes, and yeares, and ages paſt numbring, <hi>Pſal.</hi> 90. 12.) Nor to ſhew you who muſt be reproved, and who muſt not be reproved (which is not to be done in this time, were it never ſo incident to the) Text, I will onely ſhew what rules every one muſt uſe in ſpea<g ref="char:EOLhyphen"/>king to ſuch as we are to ſpeake to, and that in theſe three words only, namely you muſt uſe,</p>
+            <list>
+               <item>1. Pietie.</item>
+               <item>2. Pollicie.</item>
+               <item>3. Pittie.</item>
+            </list>
+            <p>Concerning Pietie, Yee muſt</p>
+            <list>
+               <item>1. Take the Word of Grace to them.</item>
+               <pb n="54" facs="tcp:53660:32"/>
+               <item> 2. Speake to the Throne of Grace for them.</item>
+            </list>
+            <p>In doing the firſt of theſe, ye muſt do two things carefully:</p>
+            <list>
+               <item>1. Bring with you the Lords Authoritie.</item>
+               <item>2. Leave them with a poſſibilitie of mercy.</item>
+            </list>
+            <p n="1">1. For the firſt, ye muſt be carefull, that ye doe not vent or utter your owne words; but the words of the living God, to ſhew them their duly deſerved damnation, and its extremitie and eternitie. Ye muſt ſhew them the words of the Lord in the very Chapter and verſe, as well as Booke; And ſay, How? O how, will ye anſwer in the dreadfull dayes of death, and of doome, theſe words which are the <hi>words</hi> which <hi>you must</hi> bee judged by? What will you ſay, when the Bookes ſhall be <note place="margin">
+                  <hi>Joh.</hi> 12. 48.</note> opened? and this text be brought againſt you? which telleth us that every one who lives and dies in the courſe you walke in, muſt be <hi>puniſhed with everlasting destruction from the pre<g ref="char:EOLhyphen"/>ſence of the Lord, and from the glory of his power, when he comes to render vengeance in flaming fire?</hi> what muſt the Lord teare out this leafe for love of you? which ſaith as ye evidently ſee, <hi>The wicked ſhall be turned into hell, and all the nations that for<g ref="char:EOLhyphen"/>get God?</hi> muſt He be ſo farre enamored of you, as for your ſakes to be falſe of his Word, who are ſo farre out of love with him, that you hourely not onely tranſgreſſe, but trample alſo under your feet his ſacred Precepts &amp; ſaving Promiſes? Surely this is the way to win them, to worke upon them, if there be any way; to ſay with the Prophets and the Apoſtles, <hi>Thus ſaith the Lord, The mouth of the Lord hath ſpoken it,</hi> and <hi>What I delivered to you, I have received from the Lord.</hi> And I alſo (that I may awake and affect you) will follow the footſteps which I ſet before you, and to my ſixe Rules premiſed, I will adde this as it were a ſeventh, that is to ſay, that what I have ſaid, they are not my words, but the words of the Lord he was the Maſter, I but the poore Meſſenger; the words I meane which I have had in the preſent Diſcourſe concerning <hi>Tophet,</hi> or thoſe torments, or fiery flames of hell, which <hi>The breath of the Lord like a river of brimſtone kindles.</hi>
+            </p>
+            <p>2. For the ſecond: when ye have told them of the terrible
+<pb n="55" facs="tcp:53660:32"/> torments due to them, and almoſt at hand to ſwallow them up, and ſink them down to the bottomleſſe pit; ye muſt at length (leaſt they grow reſolute, and wickedly deſperate, crying, paſt help paſt hope, paſt cure paſt care; <hi>Let us eate and drink, for to morrow we ſhall dye.</hi> Let us revell and riot, we can but be damned) I ſay ye muſt at length let them know, that if they come in, there <hi>is yet hope in Iſrael concerning this very matter;</hi> 
+               <note place="margin">
+                  <hi>Ezra</hi> 10. 2. <hi>Prov.</hi> 1. 20. 21. 22. 23. 24.</note> ye muſt give them to underſtand, that <hi>Wiſdome cryeth</hi> even <hi>to ſcorners,</hi> yea to thoſe who have <hi>long</hi> (how long) <hi>delighted in ſcorning;</hi> yea let them know, that ſhe cryes not burne ye, as we would imagine, and would doe in the like caſe alſo; But <hi>turne yee,</hi> and after <hi>Behold I will poure my Spirit on you.</hi> As I will pawne my precious ſoul that none of you all ſhall goe to Tophet, if you yet repent and cleave to Chriſt, following the rules ſet before you, let your ſinnes and lives in time paſt, be never ſo many, never ſo wicked. And be ſure to put together, what the Lord hath there conjoyned (to make them readily receive mercy, when the Lord in exceeding tender mercy ten<g ref="char:EOLhyphen"/>ders it) <hi>Becauſe I have called and ye refuſed,</hi> I <hi>have ſtretched forth my hand, and no man regarded;</hi> I <hi>will laugh at your de<g ref="char:EOLhyphen"/>ſtruction, and mock when your fear commeth;</hi> when death be<g ref="char:EOLhyphen"/>ginneth to ſeize on you, and hell begins to ſwallow you, when you fall to that fearfull Tophet, to that unmatchable, un<g ref="char:EOLhyphen"/>quenchable fire, which <hi>The breath of the Lord as a river of brimstone kindles.</hi>
+            </p>
+            <p n="2">2. But as you muſt take the word of grace when you do go to them, ſo you muſt goe to the throne of grace before you goe to them. Before you ſpeak to them on Gods behalf, ſpeak to God on their behalf, to bleſſe your councels and comforts to them. And ſurely as thoſe Miniſters who following their maſters footſteps uſe to pray in private, before they preach in publick, have the ſecrets of God reveald to them and excee<g ref="char:EOLhyphen"/>dingly edifie and profit their people; whereas they doe little good, yea have their gifts and graces wither, who make not their prayers in chambers, before they meddle with Scri<g ref="char:EOLhyphen"/>ptures in Churches. (O 'tis, 'tis the powring out the ſoul to
+<pb n="56" facs="tcp:53660:33"/> God, which makes a man ſpeak with power to God) So yee, if in ſelf-deniall ye caſt down yourſelves before the Lord, and before his footſtoole, when you ſee a fit perſon, a meet man or woman to worke on, ſaying, Lord thou haſt hearts in thy hands, and haſt wiſdome and words irreſiſtable; O tell mee, ſhall I ſpeak to him, and if yea, make me able to ſpeak to him, give me an heart, and words of weight worth the ſpeaking; and give him grace to receive my warning from thee in deepeſt mercie, from mee in deareſt love. O bleſſe them ſweet father, breath with them, that they may help that precious ſoul from the lake of fire and brimſtone; thou haſt freely given mee an heart to deſire and ſeek their eſcaping hell. But thou deſireſt and ſeekeſt it infinitely more then I, or any man, or all men, who haſt ſaid and that as thou <hi>liveſt, I deſire not the death of</hi> 
+               <note place="margin">
+                  <hi>Ezek.</hi> 18.</note> 
+               <hi>the wicked.</hi> O be with us, be all to us, in ſpeaking, hearing, doing, that the poore precious ſoul to whom I am now going, may not goe to the fire of hell, which <hi>the breath of the Lord as a river of brimſtone kindles.</hi>
+            </p>
+            <p>And thus of the Pietie which muſt be uſed in your helping poor neighbours from hell: Now the Pollicie which muſt be uſed conſiſteth alſo in two particulars. Ye muſt</p>
+            <list>
+               <item>1. Give them their own Commendations.</item>
+               <item>2. Draw from them their owne Condemnation.</item>
+            </list>
+            <p>For the firſt of theſe, ye muſt alwayes remember to obſerve what good thing they have in them, or what they doe that is worthy of praiſe, though it be but morally or civilly good, to<g ref="char:EOLhyphen"/>wards the Church or the Common-wealth. And be carefull to commend the good before ye begin to diſcover their dan<g ref="char:EOLhyphen"/>ger, or tell them what dreadfull damnation awaits them, if they be not bettered before their deaths. Thus not onely did <hi>Paul</hi> deale with his people of <hi>Corinth,</hi> crying to them, <hi>I com<g ref="char:EOLhyphen"/>mend you Brethren,</hi> before he cryeth, I commend you not, when he ſpeaks of their abuſe of the ſacred Supper, wherein they <hi>drinke their owne damnation,</hi> 1 Cor. 11. 2. But alſo our Lord ſixe times in two Chapters together, cryes, <hi>thou haſt done</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 2. <hi>and</hi> 3. <hi>Chapters.</hi>
+               </note> 
+               <hi>theſe and theſe things well,</hi> before he cryes, <hi>I have ſomewha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="57" facs="tcp:53660:33"/> 
+               <hi>againſt thee.</hi> And ſurely this will <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all the wormewood: and gall in the words, though they favour never ſo ſtrongly of extreme and eternall damnation. This will make them clearly conceive, that ye doe not vent any malice in anger, when they ſee you as willing, as ready to commend what is good, as con<g ref="char:EOLhyphen"/>demn the evil. And as ye muſt reward any good in your chil<g ref="char:EOLhyphen"/>dren, as well as correct them when they doe evil (which corre<g ref="char:EOLhyphen"/>ction is the way to keep them that they goe not to hell be<g ref="char:EOLhyphen"/>low, as the wiſeſt of men hath taught us ſeven times in his book of his <hi>Proverbs)</hi> ſo let every man ſay to his neighbour in whom he ſees any ſhew or ſhadow of good, when he go<g ref="char:EOLhyphen"/>eth to be a means to five him from hell: Surely Sir, I muſt commend you, you governe well your wife and children, I doe not ſee in them any loytering, nor heart from any of them any ſwearing or lying; you are carefull for them, couvte<g ref="char:EOLhyphen"/>ous to us, free of your purſe, full of honeſt hoſpitality: But I muſt tell you (that commending the good makes way, opens the care to receive any thing from the commender) that for all this you are not regenerate, you know not what apper<g ref="char:EOLhyphen"/>tains to a ſanctified heart, which you muſt needs get before you dye, or be ſure to be damned when you dye; had you more common gifts and graces then had <hi>Herod</hi> or <hi>Iehu,</hi> or <hi>Iudas.</hi> Yea ſure you muſt ſoundly be converted, truly touch<g ref="char:EOLhyphen"/>ed and troubled for ſinne, or all your formall fairneſſe cannot keep you from the unſpeakable, unquenchable flames, which <hi>The breath of the Lord as a river of brimſtone kindles.</hi>
+            </p>
+            <p>2. For the other of the acts of holy pollicie, ye muſt make them condemne themſelves by ſome pretty proper ſimile, ſuch as this is. Say to him: I pray you neighbour, if your houſe were burning (which God keep you from) and you were faſt aſleep on a bed, or your body like to be burned, if you be not away: and then if one ſhould come by you, and find you aſleep in that danger, ought he to a wake you, yea or no, muſt he awake you or let you be burned? He cannot chuſe but anſwer, you ought, or elſe you ſhew your ſelfe an enemy; and then reply ye as the Prophet <hi>Nathan</hi> did to <hi>David: Thou art</hi>
+               <pb n="58" facs="tcp:53660:34"/> 
+               <hi>the man,</hi> to your ſelfe belongs the ſimile; alas I ſee you aſleep in your ſinnes, your ſoul and body both are about to be ſeized on by death and damnation, And ſurely I ſhould betray you if I ſhould not awake you, and ſhew you your danger. Or ſuppoſe you were aſleep, and your body ready to be burned, and two men ſhould come by you and ſee it; and the one of them ſhould ſay to his fellow, let him alone, doe not awake him, doe not ſtirre him, for if you doe, he will ſwear and ſtorm, raile and revile you with all vile and villanous reproches: the other replies, I fear not his anger, I care not one jot for his ra<g ref="char:EOLhyphen"/>ging and railing, all my feare is that he will be burned, all my care is, that he be not burned: Now which of theſe two was the truely mercifull, truly pittifull man? why as ſure as the Lawyer ſaid, <hi>He was neighbour who ſhewed mercy;</hi> as ſure as <hi>Simon</hi> ſaid. <hi>He to whom he for gave much, will love moſt:</hi> So ſure would he ſay to him that asked him ſuch a queſtion; He was the mercifull man who awaked mee, and he cruell, who would not doe it. Then ſay ye, <hi>Thou art the man,</hi> ſome flat<g ref="char:EOLhyphen"/>ter you for feare of looſing your face and favour, but I will not ſuffer you to ſleep in your ſinnes. I will affright every veine in your ſoule and body, before Ile ſuffer, you through my default, to be caſt to the fiery flames of hell, which <hi>The breath of the Lord like a river of brimſtone kindles.</hi>
+            </p>
+            <p>And thus of the acts of Pollicie. Now pitty muſt alſo be uſed in ſpeaking do others to helpe them from hell. And be<g ref="char:EOLhyphen"/>cauſe the time is paſt that I cannot come to the comfort which come to the Saints from this holy doctrine (for out of this <hi>ſtrong comes ſw<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> and Gods children from hells extremity and eternitie, may gather the excellencie and eternity of heaven, may be ſure they ſhall not be thrown into it, may with more patience endure any miſery on earth, may be the more joyfull in their eſcaping ſuch terrible torments, as well as more cer<g ref="char:EOLhyphen"/>tain of them eſcaping them, &amp;c.) I ſay becauſe I want time to deliver thoſe and ſuch like holy comforts from the ſerious thought of the doctrine of hells extremitie and eternity. I will end it as I began it, in preſſing the uſing Pitty, when we warne
+<pb n="59" facs="tcp:53660:34"/> men and women to take heed of it. As I told you at the be<g ref="char:EOLhyphen"/>ginning, that I ſhould ſpeake hereof with compaſſion, ſo in the end I call upon all to uſe the like commiſeration, as our Lord and his Apoſtle did, when they told of deſtruction and dam<g ref="char:EOLhyphen"/>nation. <hi>Many walke</hi> (ſaith bleſſed <hi>Paul) whoſe end will be</hi> 
+               <note place="margin">
+                  <hi>Phil.</hi> 3. 18.</note> 
+               <hi>damnation, and I tell you of it weeping. The enemy ſhall caſt a bank about thee</hi> (ſaith Chriſt) but he ſaid it with weeping eyes, for when <hi>he drew now to Ieruſalem, be beheld the Citie and</hi> 
+               <note place="margin">
+                  <hi>Luk.</hi> 19. 41.</note> 
+               <hi>wept over it.</hi> As it is related of <hi>Bias</hi> the Judge, that he never ſentenced any man with dry eyes. Shew to them whom you doe admoniſh, that you ſpeake to them of hell, and of their going to it, if they turn not, with griefe of heart, with groning in ſpirit; knowing that <hi>the wrath of man doth not accompliſh the will of God,</hi> (as the ſonne of thunder hath taught us) not <note place="margin">James.</note> at all that part of his will, wherein he binds us to doe our ut<g ref="char:EOLhyphen"/>moſt in keeping poore ſouls from the wrath to come, from the place of torments, the fire of hell, of which it is ſaid in the Text, that <hi>the breath of the Lord like a river of brimſtone kin<g ref="char:EOLhyphen"/>dles it.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:53660:35"/>
+            <pb facs="tcp:53660:35"/>
+            <l> WHen this laſt Sermon thus was brought to end,</l>
+            <l>Our <hi>Vincent</hi> from the Pulpit did deſcend</l>
+            <l>Into the Pew; and bleſſed be our Lord,</l>
+            <l>Who ſo much grac'd this Preacher of his Word,</l>
+            <l>That though his foes exceedingly deſir'd</l>
+            <l>To interrupt him in it, and conſpir'd</l>
+            <l>To that ſame purpoſe: yea beſides although,</l>
+            <l>They had both power and pollicie enough</l>
+            <l>To doe it; yet they could not for their heart</l>
+            <l>Touch him, or cauſe one perſon to depart</l>
+            <l>Till he <hi>had finiſht.</hi> But when that was done,</l>
+            <l>His foes by heaps did at the Church doore run <note place="margin">John 18. 1. Rev. 11. 7.</note>
+            </l>
+            <l>To doe him miſchiefe; And a wonder 'tis,</l>
+            <l>(But that we certainly may learn by this,</l>
+            <l>That God had other work for him to doe,</l>
+            <l>And better ſouls for him to preach unto)</l>
+            <l>That knife, or Halberds, or that preſſe of men</l>
+            <l>Had not deſtroy'd his ſmoaking body then.</l>
+            <l>But bleſt be God at length he got away,</l>
+            <l>And preacht at <hi>Mary Magdalens</hi> that day</l>
+            <l>Ith Evening: And ſince that (by Gods great power)</l>
+            <l>Full many a Sermon he hath preacht in our</l>
+            <l>Great <hi>London</hi> Citie. But no thanks to you</l>
+            <l>Ye preaching-hating, bloud-deſiring crew</l>
+            <l>Of ſottiſh ſlauderers; yea ſure you ſhould</l>
+            <l>Be ſharply puniſhed, for what you would</l>
+            <l>But could not compaſſe; that you ſo might be</l>
+            <l>A warning unto others and to mee.</l>
+            <closer>
+               <signed>Idem A. F. qui ſcripſit This was the Sermon, <hi>&amp;c.</hi>
+               </signed> Qui punit, ponit.</closer>
+            <pb facs="tcp:53660:36"/>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:53660:36"/>
+            <head>
+               <hi>MR.</hi> Packington <hi>before the Iuſtices required me to pro<g ref="char:EOLhyphen"/>duce the teſtimonie of ſome Miniſters of my own Coun<g ref="char:EOLhyphen"/>trey, I therefore am compelled to produce this, written by them, and ſubſcribed every one with his owne hand.</hi>
+            </head>
+            <p>VVE whoſe names are underwritten, doe cer<g ref="char:EOLhyphen"/>tifie, that Mr. <hi>Humfrey Vincent,</hi> whom we have known for a good ſpace of time, is of a very honeſt life and converſation; he hath at our deſires at ſundry times preached in our ſeverall Cures; The Lord hath endued him with ſingular gifts which he hath denied to his Brethren, although faithfull in their places. Indeed he is one of a thou<g ref="char:EOLhyphen"/>ſand, either to break, or to bind up (by Gods help) a broken heart. He is a <hi>Iohn Baptiſt</hi> to humble and to lay low a proud exalted ſpirit. He hath beene ſent for to preach in many places about us, where we have heard his Doctrine hath been ſound, and his carriage as a Miniſter of the Goſpel; and we hope he hath done much good in our Countrey.</p>
+            <p>In witneſſe whereof, we Miniſters of the Goſpel have put to our hands.</p>
+            <list>
+               <item>John Needham. <hi>Preacher of</hi> Stafford.</item>
+               <item>Seth VVood <hi>of</hi> Armitage</item>
+               <item>Sampſon Newton <hi>of</hi> Canck.</item>
+               <item>Thomas Thomas <hi>of</hi> Beckbury.</item>
+               <item>William Fletcher <hi>of</hi> Albrington.</item>
+               <item>Simon King <hi>of</hi> Codſall.</item>
+               <item>VVilliam Brue ton <hi>of</hi> Noſehall.</item>
+               <item>George Baxter of VVenlock.</item>
+               <item>VVilliam Peake <hi>of</hi> Shemton.</item>
+               <item>Robert Aſhton <hi>of</hi> Bednall.</item>
+               <item>Deliverance Fenny houſe <hi>of</hi> Shaſſal.</item>
+               <item>John Chapman <hi>of</hi> Dunn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngton.</item>
+               <item>VVilliam Madeſtart <hi>of</hi> Bridgnorth.</item>
+               <item>Thomas Mocket <hi>of</hi> Newport.</item>
+               <item>Roger Linſh <hi>of</hi> Norton <hi>juxta</hi> Canck.</item>
+            </list>
+            <p>All theſe Preachers of the VVord.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
